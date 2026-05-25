@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 MERCHANT_ID = os.getenv("CLOVER_MERCHANT_ID", "MRWSQWMCDSHQ1")
 API_TOKEN = os.getenv("CLOVER_API_TOKEN", "2148cad7-875f-f420-714a-1b29c5af924c")
 BASE_URL = os.getenv("CLOVER_BASE_URL", "https://api.clover.com")
-ECOMM_BASE = os.getenv("CLOVER_ECOMM_BASE_URL", "https://apisandbox.dev.clover.com")  # Use api.clover.com for production
+ECOMM_BASE = os.getenv("CLOVER_ECOMM_BASE_URL", "https://api.clover.com")  # Production Clover API
 
 HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}",
