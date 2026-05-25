@@ -211,13 +211,22 @@ async def tool_calculate_total(args: dict) -> dict:
     subtotal = 0
     line_items = []
     for item in items:
-        item_price = item.get("unit_price_cents", 0)
+        # Accept both unit_price_cents (int cents) and price (float dollars) from Vapi
+        if "unit_price_cents" in item:
+            item_price = int(item["unit_price_cents"])
+        elif "price" in item:
+            raw = float(item["price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        else:
+            item_price = 0
         mod_total = sum(item.get("modifier_prices_cents", []))
         qty = item.get("quantity", 1)
         line_total = (item_price + mod_total) * qty
         subtotal += line_total
+        # Accept both item_name and name
+        display_name = item.get("item_name") or item.get("name", "Item")
         line_items.append({
-            "name": item.get("item_name", "Item"),
+            "name": display_name,
             "quantity": qty,
             "unit_price_usd": round(item_price / 100, 2),
             "modifiers_usd": round(mod_total / 100, 2),
@@ -263,17 +272,26 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     total_data = await tool_calculate_total({"items": items, "order_type": order_type})
     total_cents = total_data["total_cents"]
 
-    # Build Clover line items for Hosted Checkout
+    # Build checkout line items
     checkout_items = []
     for item in items:
-        item_price = item.get("unit_price_cents", 0)
+        # Accept both unit_price_cents (int cents) and price (float dollars) from Vapi
+        if "unit_price_cents" in item:
+            item_price = int(item["unit_price_cents"])
+        elif "price" in item:
+            raw = float(item["price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        else:
+            item_price = 0
         mod_total = sum(item.get("modifier_prices_cents", []))
         mod_names = ", ".join(item.get("modifier_names", []))
         note = item.get("special_instructions", "")
         if mod_names:
             note = f"{mod_names}. {note}".strip(". ")
+        # Accept both item_name and name
+        display_name = item.get("item_name") or item.get("name", "Item")
         checkout_items.append({
-            "name": item.get("item_name", "Item"),
+            "name": display_name,
             "price": item_price + mod_total,
             "unitQty": item.get("quantity", 1),
             "note": note[:100] if note else ""
@@ -283,8 +301,15 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     if order_type == "delivery":
         checkout_items.append({"name": "Delivery Fee", "price": 199, "unitQty": 1, "note": ""})
     # 3% Convenience Fee (not taxable — added as separate line item with no taxRates)
+    def _item_price_cents(item):
+        if "unit_price_cents" in item:
+            return int(item["unit_price_cents"])
+        elif "price" in item:
+            raw = float(item["price"])
+            return int(raw * 100) if raw < 1000 else int(raw)
+        return 0
     convenience_fee_cents = int(sum(
-        (item.get("unit_price_cents", 0) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
+        (_item_price_cents(item) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
         for item in items
     ) * 0.03)
     checkout_items.append({"name": "Convenience Fee (3%)", "price": convenience_fee_cents, "unitQty": 1, "note": "Non-taxable"})
