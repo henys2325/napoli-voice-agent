@@ -29,6 +29,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from clover_service import CloverService
 from sms_service import SMSService
 from order_store import OrderStore
+from email_service import send_new_order_alert, send_order_to_kitchen_alert
 
 # ─── Logging ────────────────────────────────────────────────
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
@@ -328,6 +329,9 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
         language=language
     )
 
+    # Notify manager of new order
+    background_tasks.add_task(send_new_order_alert, order_record)
+
     logger.info(f"Order created. Session: {session_id} | Total: ${total_data['total_usd']} | Phone: {customer_phone}")
 
     return {
@@ -435,6 +439,10 @@ async def push_order_to_clover(session_id: str, order: dict):
                 order_type=order["order_type"],
                 language=order.get("language", "en")
             )
+
+            # Notify manager that order is in kitchen
+            kitchen_order = {**order, "clover_order_id": result["clover_order_id"]}
+            send_order_to_kitchen_alert(kitchen_order)
         else:
             store.update_order_status(session_id, "clover_error")
             logger.error(f"Failed to push order {session_id} to Clover: {result.get('error')}")
