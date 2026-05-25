@@ -24,6 +24,8 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
 from clover_service import CloverService
 from sms_service import SMSService
 from order_store import OrderStore
