@@ -221,15 +221,15 @@ async def tool_calculate_total(args: dict) -> dict:
         })
 
     delivery_fee = 199 if order_type == "delivery" else 0
-    card_fee = 100
-    tax = int(subtotal * 0.0825)
-    total = subtotal + delivery_fee + card_fee + tax
+    convenience_fee = int(subtotal * 0.03)  # 3% Convenience Fee (not taxable)
+    tax = int(subtotal * 0.08375)           # 8.375% NV tax on food only (not on fees)
+    total = subtotal + delivery_fee + convenience_fee + tax
 
     return {
         "line_items": line_items,
         "subtotal_usd": round(subtotal / 100, 2),
         "delivery_fee_usd": round(delivery_fee / 100, 2),
-        "card_fee_usd": round(card_fee / 100, 2),
+        "convenience_fee_usd": round(convenience_fee / 100, 2),
         "tax_usd": round(tax / 100, 2),
         "total_usd": round(total / 100, 2),
         "total_cents": total
@@ -278,7 +278,12 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     # Add fees
     if order_type == "delivery":
         checkout_items.append({"name": "Delivery Fee", "price": 199, "unitQty": 1, "note": ""})
-    checkout_items.append({"name": "Card Processing Fee", "price": 100, "unitQty": 1, "note": ""})
+    # 3% Convenience Fee (not taxable — added as separate line item with no taxRates)
+    convenience_fee_cents = int(sum(
+        (item.get("unit_price_cents", 0) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
+        for item in items
+    ) * 0.03)
+    checkout_items.append({"name": "Convenience Fee (3%)", "price": convenience_fee_cents, "unitQty": 1, "note": "Non-taxable"})
 
     # Generate Clover Hosted Checkout link
     checkout_result = await clover.create_checkout_session(
