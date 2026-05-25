@@ -56,6 +56,7 @@ class CloverService:
                 li["taxRates"] = [{"name": "NV Tax 8.375%", "rate": tax_rate}]
             line_items.append(li)
 
+        backend_url = os.getenv("BACKEND_URL", "https://napoli-voice-agent.onrender.com")
         payload = {
             "customer": {
                 "firstName": first_name,
@@ -65,6 +66,10 @@ class CloverService:
             "tips": {"enabled": True},
             "shoppingCart": {
                 "lineItems": line_items
+            },
+            "redirectUrls": {
+                "success": f"{backend_url}/payment/success",
+                "failure": f"{backend_url}/payment/failure",
             }
         }
 

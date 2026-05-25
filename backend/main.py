@@ -451,6 +451,58 @@ async def push_order_to_clover(session_id: str, order: dict):
         store.update_order_status(session_id, "clover_error")
         logger.error(f"Exception pushing order {session_id}: {e}")
 
+# ─── Payment Redirect Endpoints ─────────────────────────────
+
+@app.get("/payment/success")
+async def payment_success(checkoutSessionId: str = None, orderId: str = None):
+    """
+    Clover redirects here after successful payment.
+    We also trigger the order push to kitchen.
+    """
+    session_id = checkoutSessionId or orderId
+    if session_id:
+        order = store.get_order_by_session(session_id)
+        if order and order.get("status") == "pending_payment":
+            store.update_order_status(session_id, "paid")
+            import asyncio
+            asyncio.create_task(push_order_to_clover(session_id, order))
+            logger.info(f"Payment success redirect for session {session_id}")
+    return {"status": "success", "message": "Payment received! Your order is being sent to the kitchen."}
+
+@app.get("/payment/failure")
+async def payment_failure(checkoutSessionId: str = None):
+    """Clover redirects here after failed payment."""
+    logger.warning(f"Payment failure redirect for session {checkoutSessionId}")
+    return {"status": "failed", "message": "Payment was not completed. Please call us at 725-204-0379."}
+
+# ─── Vapi Webhook ────────────────────────────────────────────
+
+@app.post("/webhook/vapi")
+async def vapi_webhook(request: Request):
+    """
+    Vapi sends call events here: call-started, call-ended, transcript, etc.
+    Used for logging and monitoring.
+    """
+    try:
+        body = await request.json()
+        event_type = body.get("message", {}).get("type", "unknown")
+        call_id = body.get("message", {}).get("call", {}).get("id", "")
+        logger.info(f"Vapi webhook: {event_type} | call_id: {call_id}")
+
+        if event_type == "end-of-call-report":
+            call = body.get("message", {}).get("call", {})
+            transcript = body.get("message", {}).get("transcript", "")
+            duration = call.get("endedAt", "") 
+            ended_reason = body.get("message", {}).get("endedReason", "")
+            logger.info(f"Call ended: {call_id} | reason: {ended_reason} | duration: {duration}")
+            if ended_reason in ("customer-ended-call", "assistant-ended-call"):
+                logger.info(f"Normal call end: {ended_reason}")
+            elif ended_reason in ("silence-timed-out", "max-duration-exceeded"):
+                logger.warning(f"Call dropped: {ended_reason} for call {call_id}")
+    except Exception as e:
+        logger.error(f"Vapi webhook error: {e}")
+    return {"received": True}
+
 # ─── Dashboard API ───────────────────────────────────────────
 
 @app.get("/api/orders")
