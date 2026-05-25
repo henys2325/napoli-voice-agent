@@ -8,4 +8,47 @@ services:
     startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
-        value: 3.11.0
+        value: "3.11.0"
+      # Clover POS
+      - key: CLOVER_MERCHANT_ID
+        value: MRWSQWMCDSHQ1
+      - key: CLOVER_API_TOKEN
+        value: 2148cad7-875f-f420-714a-1b29c5af924c
+      - key: CLOVER_BASE_URL
+        value: https://api.clover.com
+      - key: CLOVER_ECOMM_BASE_URL
+        value: https://api.clover.com
+      # Twilio SMS
+      - key: TWILIO_ACCOUNT_SID
+        value: AC7c24b54511271286963ec63b0516a762
+      - key: TWILIO_AUTH_TOKEN
+        value: 557355d63ef7d3d6d62f04b18e75e20a
+      - key: TWILIO_PHONE_NUMBER
+        value: "+17022912025"
+      - key: TWILIO_PHONE_SID
+        value: PN724abd758a58fdc4af0ae3d1487b9fa3
+      # Vapi.ai
+      - key: VAPI_API_KEY
+        value: 53c7c8bc-9b72-410f-b4b1-606942ff77f1
+      - key: VAPI_PHONE_NUMBER_ID
+        value: ea05ab0a-b2a9-4f9e-82ad-9b0ee2a8b990
+      - key: VAPI_ASSISTANT_ID
+        value: 1350377e-c62e-41e7-85c8-e7ee3254461e
+      # Restaurant Settings
+      - key: RESTAURANT_PHONE
+        value: "7252040379"
+      - key: RESTAURANT_NAME
+        value: Napoli Pizzeria
+      - key: RESTAURANT_TIMEZONE
+        value: America/Los_Angeles
+      - key: MANAGER_EMAIL
+        value: info@napolipizzeria.net
+      # App Settings
+      - key: APP_HOST
+        value: "0.0.0.0"
+      - key: APP_PORT
+        value: "8000"
+      - key: APP_SECRET_KEY
+        value: napoli-prod-secret-key-2026
+      - key: BASE_URL
+        value: https://napoli-voice-agent.onrender.com
