@@ -1,0 +1,1167 @@
+=== NAPOLI PIZZERIA MENU ===
+Address: 3131 W. Craig Rd., North Las Vegas, NV 89032
+Hours: Every Day 10:00 AM - 10:00 PM (Pacific Time)
+Lunch Specials: Mon-Fri 10:00 AM - 3:00 PM ONLY (includes FREE soda)
+Delivery fee: $1.99 | Card fee: $1.00 | Tax: 8.25%
+Services: Delivery, Dine-In, Pick Up, Catering
+
+
+--- 1/2 POUND BURGER ---
+  1/2  Bacon Burger: $12.49 [ID:7PMZSDKDYT1ZT]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Bacon Cheese Burger: $13.49 [ID:VESTKF7JEEZ24]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Blue Cheese: $13.49 [ID:G188HPWTSE8F0]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Cheese Burger: $12.49 [ID:P4HK5BJFN2RJ2]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Crispy Chicken Burger: $13.49 [ID:7B1GPEVRRHY52]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Hamburger: $11.49 [ID:C4G1S0YX7V03C]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Mexican style: $13.49 [ID:GA33JZQPXWJW8]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Napoli Cheese Burger: $13.49 [ID:J05T34NX9A04W]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Napoli's 1000 Island: $13.49 [ID:T7W6XFNBS758T]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  1/2  Southwestern: $13.49 [ID:JXM3E22H7DFN0]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+
+--- 4 TOPP COMBO ---
+  4 Topp Combo 10": $14.49 [ID:W8ESRCA8Y0BXE]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+  4 Topp Combo 14": $21.49 [ID:R4DPBA5Y7CTAG]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+  4 Topp Combo 16": $25.49 [ID:7PH3W36CDMF74]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+  4 Topp Combo 18": $27.49 [ID:W4CJS5F9HPXYA]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  4 Topp Combo 24": $34.49 [ID:AEKEZMTHH2QZG]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  4 Topp Combo 28": $46.49 [ID:5ZK46Q0Y162HE]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  4 Topp Combo 30": $52.49 [ID:2QH7QBGDD8VNG]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  4 Topp Combo 36": $86.49 [ID:APTX7TAVQ0QG6]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- ANYTIME SPECIALS ---
+  # 3 - 18" Pizza + 2 Toppings: $23.70 [ID:30JXXRWRXMHHW]
+    -> 2 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #1 - Two 16" Pizza + 1 topping Each: $34.10 [ID:PVH6F0GBS87AP]
+    -> #1 Pizza 16" (REQUIRED): Anchovies, Bl Olive, Artichoke Hearts, Basil, Bacon, Muchroom, Ex Cheese, Green Peppers, Green Olives, Meatballs, Eggplant, Pepperonchini, Jalapenos, Onion, Feta Cheese, Pepperoni, Garlic, Ham, Ground Beef, Grilled Chicken
+    -> #2 Pizza 16" (REQUIRED): Feta Cheese, Grilled Chicken, Garlic, Ground Beef, Green Peppers, BL Olive, Green Olives, Eggplant, Chedar Cheese, Anchovies, Artichoke Heart, Onion, Mushroom, Ex Cheese, Jalapenos, Meatballs, Bacon, Ham, Feta Cheese, Basil
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  #10 - 16" Pizza 1 Topping + 10 Fingers + (1) 2 Liter Soda: $42.30 [ID:3EPPHAT4D81NY]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #11 - 28" Pizza + 1 Topping + 40 Wings + two 2 Liter Soda: $96.90 [ID:KA0NV9X2G3ZVP]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #12- 30" Pizza + 4 Toppings + 40 Wings + 20 fingers + Two Large Fries + Two 2 Liter Sodas: $136.10 [ID:H21HPQKSG4W06]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Wings Flavor (optional): Wings Flavor
+    -> Fingers Flavor (optional): Fingers Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #13 - 16" Specialty Pizza + 20 Wings + (1) 2 Liter Soda: $57.80 [ID:S2MC78XJ95HCT]
+    -> Specialty Pizza (optional): BBQ Chicken, Buffalo Chicken, 5 Cheese, Chicken Alfredo, Delux, Creek Pizza, Italian Pizza, Meat Lover, Mexican Style, Napoli Special, Pesto Chicken, Ranch, Supreme, Southwestern Chicken, Taco, Vegeterian, White Pizza
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #14 - 18" Pizza + 1 Topping + 20 Wings + Antipasto Or Chef Salad + (1) 2 Liter Soda: $57.80 [ID:6NZTWZGHQT89J]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Wings Flavor (optional): Wings Flavor
+    -> Chef Or Antipasto (optional): Chef Salad, Antipasta
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #15 -Two 18" Pizza + 2 Toppings + 40 Wings + (2) 2 Liter Soda: $104.20 [ID:SYZA09TM52XQ4]
+    -> #1 Pizza 18" (REQUIRED): Anchovies, Bl Olive, Artichoke Hearts, Basil, Bacon, Muchroom, Ex Cheese, Green Peppers, Green Olives, Meatballs, Eggplant, Pepperonchini, Jalapenos, Onion, Feta Cheese, Pepperoni, Garlic, Ham, Ground Beef, Grilled Chicken
+    -> #2 Pizza 18" (REQUIRED): Anchovies, Bl Olive, Artichoke Hearts, Basil, Bacon, Muchroom, Ex Cheese, Green Peppers, Green Olives, Meatballs, Eggplant, Pepperonchini, Jalapenos, Onion, Feta Cheese, Pepperoni, Garlic, Ham, Ground Beef, Grilled Chicken
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #16 - 14" Pizza + 1 Topping+ 10 Wings + (1) 2 Liter Soda: $35.10 [ID:J8J57JNJE6D20]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #17 - 14" Pizza + 1 Topping +10 Wings+ 5 Fingers: $40.20 [ID:STSJG9MSH42VA]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> Fingers Flavor (optional): Fingers Flavor
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #18 - 16" Pizza + 1 Topping+20 Wings+10 Fingers+large Fries+(1) 2 Liter Soda: $73.20 [ID:C1Z4C7QD40DZ0]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> Fingers Flavor (optional): Fingers Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #19 - 36" Pizza + 4 Topping Combo+ 40 Wings + Garlic Balls+ (2) 2 Liter Soda: $134.10 [ID:AJ3V2WXXCR9HM]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #2 - 28" Pizza 4 Toppings + (1) 2 Llter Soda: $47.50 [ID:K0QN01CZPRMGA]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #4 - 14" Cheese Pizza + Spagheti And meatball + (1) 2 Liter Soda: $32.00 [ID:9WPMWQ71D6AWP]
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #5 - 24 " Cheese Pizza + 20 Wings + (1) 2 Liter Soda: $54.70 [ID:HG0Q06E0EM6JM]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #6 - 8 Fingers + 20 Wings + 16 "Pizza (1) Topping + 2 Liter Soda: $66.00 [ID:EDSDWNWW4MKEC]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Wings Flavor (optional): Wings Flavor
+    -> Fingers Flavor (optional): Fingers Flavor
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #7 - Two 16" Pizza 2 Toppings/ea(1) + 2 Liiter Soda: $41.30 [ID:TKSSEDKJCW0JG]
+    -> #1 Pizza 16" (REQUIRED): Anchovies, Bl Olive, Artichoke Hearts, Basil, Bacon, Muchroom, Ex Cheese, Green Peppers, Green Olives, Meatballs, Eggplant, Pepperonchini, Jalapenos, Onion, Feta Cheese, Pepperoni, Garlic, Ham, Ground Beef, Grilled Chicken
+    -> #2 Pizza 16" (REQUIRED): Feta Cheese, Grilled Chicken, Garlic, Ground Beef, Green Peppers, BL Olive, Green Olives, Eggplant, Chedar Cheese, Anchovies, Artichoke Heart, Onion, Mushroom, Ex Cheese, Jalapenos, Meatballs, Bacon, Ham, Feta Cheese, Basil
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #8 - 16"  Pizza + 1 Topping + 1 lasanga + House Salad Medium + Gralic Bread +  2 Liter Soda: $41.30 [ID:4RVJBG0ZRWBH4]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #9 - 16" Pizza +1 Topping + 20 Wings + (1) 2 Liter Soda: $47.50 [ID:62W8GG6XV8ZKR]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> One 2 Liter Soda For Specials (optional): Coca Cola, Fanta, Diet Coke, Coke Zero, Dr Pepper, Root Beer, Sprite, Ginger Ale
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+
+--- APPETIZERS ---
+  Bread Stick(12): $7.80 [ID:509F7V2HA6TKC]
+  Breaded Mushroom (12): $9.80 [ID:NRQA40RC1N1VJ]
+  Bruschetta: $12.90 [ID:4DVVS00BK2DX2]
+  Cheese Bread Stick (12): $10.90 [ID:RBPFN8W62R4K8]
+  Cheese Garlic Bread: $5.70 [ID:KQ1WJEKA11STE]
+  Cheese Quesadilla: $10.90 [ID:FD93BM38R49B6]
+  Chicken Quasadella: $15.00 [ID:RSFGWJ18V9XBJ]
+  Chilli Cheese Fries: $10.90 [ID:C5BVEGV8QNJYM]
+  Curly Cheese Fries w/ Bacon: $10.90 [ID:BX6G2CXAP19C6]
+  Curly Fries: $7.80 [ID:QNW9SCXCP472Y]
+  Curly Fries w/ Cheese & Bacon: $10.90 [ID:9T35MV32SR6HA]
+  French Fries (L): $6.70 [ID:WV4MSYZC410GM]
+  French Fries (M): $4.70 [ID:AVJD7JCK3AYQY]
+  French Fries (S): $3.60 [ID:B3YJ37PXHNCFC]
+  Fried Ravioli (8): $9.80 [ID:6PW6RM011QXKJ]
+  Garlic Balls (20): $7.80 [ID:8P3H172SS470W]
+  Garlic Bread: $3.60 [ID:07MT58GAG6BQA]
+  Jalapino Poppers (6): $9.80 [ID:6V999T8X9MBB4]
+  Large French Fries: $6.70 [ID:03RMKFYD6J9Y2]
+  Medium French Fries: $4.70 [ID:FD104KV0C0W0E]
+  Mozzarela Sticks(6): $9.80 [ID:4RFHDC4RW9GR2]
+  Napoli Cambo Platter: $15.00 [ID:1FB3GA12X960P]
+  Onion Ring (10): $9.80 [ID:09GN1E1ANVDC8]
+  Zucchini Stick (12): $9.80 [ID:3JFR9V2010PEP]
+
+--- BBQ CHICKEN PIZZA ---
+  BBQ Chicken 10" Pizza: $15.49 [ID:FQG8M0N4SZ59E]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  BBQ Chicken 14" Pizza: $22.49 [ID:ESYXKFB7C72V8]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  BBQ Chicken 16" Pizza: $26.49 [ID:FXFT9AE8TBDZW]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  BBQ Chicken 18" Pizza: $28.49 [ID:5BQD44XGKKE2A]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  BBQ Chicken 24" Pizza: $35.49 [ID:KXHBRSTZ9PT9C]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  BBQ Chicken 28" Pizza: $47.49 [ID:CS4NBJ5EEFBQR]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  BBQ Chicken 30" Pizza: $53.49 [ID:B4A8WR3A4QDG4]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  BBQ Chicken 36" Pizza: $90.49 [ID:V35R7FJG4W9KC]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- BUFFALO CHICKEN ---
+  Buffalo Chicken 10" Pizza: $15.49 [ID:YYJJW5AZAG4RC]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Buffalo Chicken 14" Pizza: $22.49 [ID:G08780AHR0VKW]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Buffalo Chicken 16" Pizza: $26.49 [ID:PANY2TZ3XFV12]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Buffalo Chicken 18" Pizza: $28.49 [ID:JNT9G3WSADCSM]
+  Buffalo Chicken 24" Pizza: $35.49 [ID:VQ9ZG7YEXC2G2]
+  Buffalo Chicken 28" Pizza: $47.49 [ID:4DM4E885R7R4G]
+  Buffalo Chicken 30" Pizza: $53.49 [ID:V6DRNJDW3GWHW]
+  Buffalo Chicken 36" Pizza: $90.49 [ID:T6ABNZW24XTYP]
+
+--- BURGERS ---
+  Hamburger 1/2 Pound: price varies by size [ID:4EN0KA8KA1K2Y]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Hamburger Full Pound: price varies by size [ID:SR74B8PV05PJM]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+
+--- CALZONE & STROMBOLI ---
+  Calzone: price varies by size [ID:5MV92S88WZ36M]
+    -> 2 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> Calzone Size (REQUIRED): 10"(+$14.00), 14"(+$18.10), 16"(+$21.20), 18"(+$24.30), 24"(+$32.50), 28"(+$40.80)
+  Stramboli: price varies by size [ID:3C8TA6EP2E4EM]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> Stromboli (optional): 10"(+$16.00), 14"(+$20.10), 16(+$24.30), 18(+$26.30), 24"(+$36.60), 28"(+$40.80)
+
+--- CHICKEN ALFREDO PIZZA ---
+  Chicken Alfredo Pizza 10" Chicken Alfredo Pizza: $15.49 [ID:9QKZ9S26A91YR]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Chicken Alfredo Pizza 14" Chicken Alfredo Pizza: $22.49 [ID:JTD3HAWJJTHME]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Chicken Alfredo Pizza 16" Chicken Alfredo Pizza: $26.49 [ID:GSYF1Z977SMWE]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Chicken Alfredo Pizza 18" Chicken Alfredo Pizza: $28.49 [ID:M0V95KZQ8W8T0]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Chicken Alfredo Pizza 24" Chicken Alfredo Pizza: $35.49 [ID:7PW8EHERKQ1DY]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Chicken Alfredo Pizza 28" Chicken Alfredo Pizza: $47.49 [ID:WQE35ZMJ3RKDW]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Chicken Alfredo Pizza 30" Chicken Alfredo Pizza: $53.49 [ID:9JR8P41K4KAWR]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Chicken Alfredo Pizza 36" Chicken Alfredo Pizza: $90.49 [ID:Q7D1P28YB462M]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- CHILDREN'S MENU ---
+  Chicken Fingers(3)w/fries: $8.80 [ID:MH0FJYR4ZX57J]
+  Dinosaur Nuggets w/ Fries: $8.80 [ID:TED6YYFS1WAK0]
+  Grilled Cheese w/fries: $8.80 [ID:0MPQWX8V4FPPA]
+  Macaroni & Cheese w/ Fries: $8.80 [ID:YFYDWKSNTR0J6]
+  Spaghetti w/ Marinara or Butter: $8.80 [ID:550HEEZ5TFVW6]
+  Ziti w/marinara or Butter: $8.80 [ID:EA4SX42TRT7GM]
+
+--- DELIVERY CHARGE ---
+  Delivery Charge: $7.30 [ID:F9N2AH0HC14E4]
+  Delivery Charge: $3.10 [ID:AHMGYPEN4X3KT]
+
+--- DELUXE PIZZA ---
+  Deluxe Pizza 10" Deluxe Pizza: $15.49 [ID:R7T1JP8CVD3DG]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Deluxe Pizza 14" Deluxe Pizza: $22.49 [ID:AMGCXYZ3BGXY0]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Deluxe Pizza 16" Deluxe Pizza: $26.49 [ID:VBD87VBSMH2JG]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Deluxe Pizza 18" Deluxe Pizza: $28.49 [ID:5FYWW58NC0YC4]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Deluxe Pizza 24" Deluxe Pizza: $35.49 [ID:VS2GNHZ6JANX6]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Deluxe Pizza 28" Deluxe Pizza: $47.49 [ID:8F7X32VNR6GCP]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Deluxe Pizza 30" Deluxe Pizza: $53.49 [ID:5S7RSNH89M3N6]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Deluxe Pizza 36" Deluxe Pizza: $90.49 [ID:GN9NC85AGNTHP]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- DESSERTS ---
+  Baklava: $6.20 [ID:06FWZKQGT6W4G]
+  Brownie: $6.20 [ID:CYFXXZXRDZ4HA]
+  Caramel Cheesecake: $6.20 [ID:44S73X804EHMP]
+  Carrot Cake: $6.20 [ID:1X218Z83988FR]
+  Cheesecake Plain: $6.20 [ID:R35QDZ3F85R84]
+  Chocolate Cake: $6.20 [ID:TAWTNQJCNHPGG]
+  Eclair: $6.20 [ID:67G76ZMK0KM4J]
+  Fresh Cannoli: $6.20 [ID:C3BYJWZR6321C]
+  Nutella Cheesecake: $6.20 [ID:5K4V5WYRFZ1VT]
+  Red Velvet Cake: $6.20 [ID:7KQWC5V32FF6T]
+  Strawberry Cheesecake: $6.20 [ID:S6DS9KZFQP8RR]
+  Tiramisu: $6.20 [ID:AAZCK9ZWNS3DT]
+  Zeppolis (20): $6.20 [ID:A7YSN4D4SPSDJ]
+
+--- DRESSINGS SIDES ---
+  Dressings Sides 2 oz Blue Cheese: $1.10 [ID:47NXKYENCD2R2]
+  Dressings Sides 2 oz Ranch: $1.10 [ID:058JW0F35S87W]
+  Dressings Sides 6 onz Marinara: $2.10 [ID:EZ7W18CC4H23P]
+  Dressings Sides 6 oz Blue Cheese: $2.10 [ID:42XRT93Y419Y8]
+  Dressings Sides 6 oz Ranch: $2.10 [ID:2XJJX8ATH8H3A]
+
+--- DRINKS ---
+  Sodas Can And 2 Liter: price varies by size [ID:44A95MHJWMCHG]
+    -> Cans (optional): Coca Cola(+$1.60), Fanta(+$1.60), Root Beer(+$1.60), Diet Coke(+$1.60), Dr Pepper(+$1.60), Sprite(+$1.60), Ice Tea(+$1.60), Bottle Water(+$1.60), Perrier(+$3.60), Coke Zero(+$1.60)
+    -> 2-Liter Bottle of Soda (optional): Coca Cola(+$6.20), Fanta(+$6.20), Diet Coke(+$6.20), Coke Zero(+$6.20), Dr Peppef(+$6.20), Root Beer(+$6.20), Sprite(+$6.20), Ginger Ale(+$6.20)
+
+--- FIVE CHEESE PIZZA ---
+  Five Cheese 10" Pizza: $15.49 [ID:RRRA7DVWRPGX4]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Five Cheese 14" Pizza: $22.49 [ID:DS9JNAQNX8VFM]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Five Cheese 16" Pizza: $26.49 [ID:A4WZYZBMVW9AW]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Five Cheese 18" Pizza: $28.49 [ID:DYQRCKCRTH2XY]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Five Cheese 24" Pizza: $35.49 [ID:X3NMY70EDMRNA]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Five Cheese 28" Pizza: $47.49 [ID:XZAGMKSPD4608]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Five Cheese 30" Pizza: $53.49 [ID:4W9KZ22XGJP36]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Five Cheese 36" Pizza: $90.49 [ID:TEJ1CPKVHG2H8]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- FULL POUND BURGER ---
+  Full pound Bacon Burger: $15.49 [ID:WDYBEQZZ2YC7E]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Bacon Cheeseburger: $16.49 [ID:VBB9YSZFJRYN0]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Blue Cheese: $16.49 [ID:45H36H56FKJ2R]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Cheeseburger: $15.49 [ID:FBVQVZXRBHRNY]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Crispy Chicken Burger: $16.49 [ID:W3NQFJC3YNK1E]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Hamburger: $14.49 [ID:G466MHHDNVMNM]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Mexican Style: $16.49 [ID:BDQ2S00QZYTPC]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Napoli 1000 Island: $16.49 [ID:YEFY5J361CFD6]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Napoli Cheeseburger: $16.49 [ID:CZRF18505G1SJ]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Full pound Southwestern: $16.49 [ID:7XZNZGN2Y909J]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+
+--- GLASS BOTTLE SODA ---
+  Glas Bottle Soda Coca Cola: price varies by size [ID:54FXSF79CWNFM]
+  Glas Bottle Soda Fanta: price varies by size [ID:86JXVM7X6DMTR]
+  Glas Bottle Soda Sprite: price varies by size [ID:4C2B9QX2ZZBTT]
+
+--- GLUTEN FREE PIZZA ---
+  Gluten Free Pizza 14" Only: $24.99 [ID:9CB2PHT36E6VG]
+    -> Gluten Free Pizza (optional): 
+
+--- GREEK PIZZA ---
+  Greek Pizza 10" Greek Pizza: $15.49 [ID:6CDP9V7K884XY]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Greek Pizza 14" Greek Pizza: $22.49 [ID:68K9EAXEZ9E9P]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Greek Pizza 16" Greek Pizza: $26.49 [ID:YMFZ7KJ1C7598]
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Greek Pizza 18" Greek Pizza: $28.49 [ID:08MNYYWZG04FM]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Greek Pizza 24" Greek Pizza: $35.49 [ID:N85DR893WFBR8]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Greek Pizza 28" Greek Pizza: $47.49 [ID:PEBHE7K9YPQWW]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Greek Pizza 30" Greek Pizza: $53.49 [ID:WX9JYJ1TMD518]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Greek Pizza 36" Greek Pizza: $90.49 [ID:J6N7QG36SH048]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- HAND TOSSED NEW YORK STYLE ---
+  Gluten Free Pizza 14" Only: $24.99 [ID:9CB2PHT36E6VG]
+    -> Gluten Free Pizza (optional): 
+  Hand Tossed 16" Pizza: $17.49 [ID:QQ0DS0X6Y9CS2]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Sicilian 12x8: $27.99 [ID:02VYWFNPMKNBW]
+    -> Sicilian 12x8 Mod (optional): Single Topp(+$3.50), Sicilian mod 4 Toppins(+$9.99)
+
+--- ITALIAN PIZZA ---
+  Italian 10" Italian: $15.49 [ID:SSPYJWB8H34TP]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Italian 14" Italian: $22.49 [ID:QDVSC34XNZZCC]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Italian 16" Italian: $26.49 [ID:JAP481R8MDBV0]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Italian 18" Italian: $28.49 [ID:4WGMTSAB1ZC5P]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Italian 24" Italian: $35.49 [ID:3JQR3W02X403E]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Italian 28" Italian: $47.49 [ID:G9289Y8H0BW4A]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Italian 30" Italian: $53.49 [ID:NDR64ND9C3D4M]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Italian 36" Italian: $90.49 [ID:Y3V2JE59GD4YM]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- LUNCH SPECIAL ---
+  #1 - Triple Decker Blt + fries + Free Soda: $10.90 [ID:B3CD9XQ7SKTAT]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #10 - Philly Cheesesteak + Fries +Soda: $12.90 [ID:018N6TYEZD91M]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #11 -  1/2 Pound Cheeseburger + Fries + Can of Soda: $12.90 [ID:NPJHV2VPR08FG]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #12 - Eggplant Parmigiana Spaghetti + Garlic Bread + Can Soda: $14.00 [ID:4NZ1VQXECCYMR]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #13 - 6 Wings + Dinner Salad + Soda: $11.90 [ID:5KN87JKSVFNYA]
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Wings Flavor (optional): Wings Flavor
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #14 - Hot Pastrami + Fries + Free Can Soda: $12.90 [ID:Y937364D0FP24]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #15 - Grilled Sausage,onion& Peppers Sub+ Fries + Free Can of Soda: $12.90 [ID:YC8K6TWH9BZKG]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #16 - 10 Wings + Fries + free Can Soda: $16.00 [ID:AE5E8THBFRVBG]
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #17 - Antipasto Salad + Garlic Bread + can soda: $12.90 [ID:NZQAR9314JRV8]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #18 - Blackened Chicken Salad + Garlic Bread + Soda: $12.90 [ID:WHWC1RRKHE7EP]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #19 - 1 Slice ( Cheese Or Pepperoni) + 6 Boneless Wings + Fee Soda: $10.90 [ID:N7Z86FNVTPF8E]
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #2 - 10" Calzone + Soda: $14.00 [ID:QK08B8D4T8S92]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 2 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #2 - 10" Stromboli + Soda: $14.00 [ID:6J05FM6GZ652A]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #20 - Chicken Caesar Salad + Garlic Bread + Free Can Soda: $12.90 [ID:JH1K9S966RK00]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #22 - Greek Salad + Garlic Bread + Can of Soda: $12.90 [ID:E91XF0Y5YFVJC]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #23 - Chef Salad + Garlic Bread + Free Can Soda: $12.90 [ID:FXYMM25HXE9M0]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #24 - Chicken Or Lamb Gyro + Fries + Free Can Soda: $12.90 [ID:DVVRX7FH10MQ4]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Gyro For #24 (optional): Lamb, Chicken
+  #3 - 10" Pizza + 1 topping + Free Can Soda: $10.90 [ID:BKJ6CH6QV67T2]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  #4 - Meatball Sausage Or Ham Sub + Fries +Free Can Soda: $10.90 [ID:TNV8BGGY8YZN0]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Meat Choice #4 (optional): Ham, Sausage, Meat Balls
+  #5 - 3 Chicken Fingers + Fries + Soda: $12.90 [ID:7BKS32E6KM95R]
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  #6 - Manicotti Ravioli Or Stuffed Shell Gralic Bread + Can of Soda: $12.90 [ID:JQD7C5BK8MWQR]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Pasta For #6 (optional): Manicotti, Ravioli, Stuffed Shell
+  #7 - Lasagna + Gralic Bread + Soda: $16.00 [ID:WK01ERS0RSSDJ]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #8 - 2 Sliceof Cheese Or Pepperoni Pizza + Soda: $9.80 [ID:F9G6EBX5SCKK4]
+    -> Mod for slice (optional): Cheese, Pepperoni
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+  #9 - Spaghetti & Meatballs Or Sausage + Garlic Bread + Soda: $14.00 [ID:QFCZ1VPJCJJ5C]
+    -> Cans For Specials (optional): Sprite, Fanta, Dr Peppers, Coca Cola, Diet Coke, Ice Tea, Bottle Water, Root Beer, Coke Zero
+    -> Pasta For #9 (optional): Meat Balls, Sausage
+
+--- MEAT LOVER ---
+  Meat Lover 10" Meat Lover: $15.49 [ID:ECXJ2YTAJ2JYW]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Meat Lover 14" Meat Lover: $22.49 [ID:CH3E2A63FG7ME]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Meat Lover 16" Meat Lover: $26.49 [ID:6533PEW8FFYDP]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Meat Lover 18" Meat Lover: $28.49 [ID:V1H4G33MA7EXG]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Meat Lover 24" Meat Lover: $35.49 [ID:CFD16SW4TYNMW]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Meat Lover 28" Meat Lover: $47.49 [ID:KK8JMWF6FJDN2]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Meat Lover 30" Meat Lover: $53.49 [ID:9624GHKFAGEY6]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Meat Lover 36" Meat Lover: $90.46 [ID:ACGMXG3RR20JE]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- MEXICAN STYLE ---
+  Mexican Style 10" Mexican Style: $15.49 [ID:NRDHHY0RA7ETM]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Mexican Style 14" Mexican Style: $22.49 [ID:2EDN60HWWBAC0]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Mexican Style 16" Mexican Style: $26.49 [ID:2XMAZ8SYR2J5M]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Mexican Style 18" Mexican Style: $28.49 [ID:PWJHTDAF6RHG6]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Mexican Style 24" Mexican Style: $35.49 [ID:S6RGBRZ1YM7YY]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Mexican Style 28" Mexican Style: $47.49 [ID:7BFJD1T4AGJ8R]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Mexican Style 30" Mexican Style: $53.49 [ID:1S0PQSKW657M6]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Mexican Style 36" Mexican Style: $90.49 [ID:10CPV74VZ0XT4]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- MOTHER’S DAY OFFERS ---
+  Dinner for 4: $191.36 [ID:K0935508BV1BC]
+
+--- NAPOLI'S SPECIAL ---
+  Napoli Special 10" Napoli Special: $15.49 [ID:Z0ZSAW3P49SCW]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Napoli Special 14" Napoli Special: $22.49 [ID:9DK28TQGBZF34]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Napoli Special 16" Napoli Special: $26.49 [ID:6YZ5TK94VS732]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Napoli Special 18" Napoli Special: $28.49 [ID:FT5M3TCFJZ434]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Napoli Special 24" Napoli Special: $35.49 [ID:DQMTBS5E2G366]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Napoli Special 28" Napoli Special: $53.49 [ID:TSYPVK9E7GPT4]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Napoli Special 30" Napoli Special: $53.49 [ID:PZ1ZKT3EFAMH4]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Napoli Special 36" Napoli Special: $90.49 [ID:KB22EJ44TNWXJ]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- OTHER ---
+  10" Pizza Extra Toppings Anchovies: $2.25 [ID:6BM6TMMM71DSJ]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Artichoke Hearts: $2.25 [ID:JWAR96EFZKXGM]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Black Olives: $2.25 [ID:AJ34ZKFPR4R04]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Canadian Bacon: $2.25 [ID:2NR64PEBG0RNJ]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Capicola: $2.25 [ID:6T4TAVXQQSN4C]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Chedar Cheese: $2.25 [ID:YAXS49CX1B6ZA]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Eggplant: $2.25 [ID:TZNGXX30W7CBE]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Feta Cheese: $2.25 [ID:DH2BM2QT684RT]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Fresh Basil: $2.25 [ID:8KHTCDAQ2QCM8]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Fresh Garlic: $2.25 [ID:JNNTN6RBVXCZE]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Green Olives: $2.25 [ID:8VN9067YQGZ5G]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Green Peppers: $2.25 [ID:KQJJSBCJSQN66]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Grilled Chicken: $2.25 [ID:HHDK2N64QKB70]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Ground Beef: $2.25 [ID:J5N6592X5BAFP]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Ham: $2.25 [ID:CZQNKPC1JPDVE]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Italian Sausage: $2.25 [ID:7AXETVNF40QEY]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Jalapenos: $2.25 [ID:KQC34T8BPKEP8]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Meatballs: $2.25 [ID:0H9GBX7WGRSWM]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Mushrooms: $2.25 [ID:CC17V5KCY8A32]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Onions: $2.25 [ID:X8216YHHRZKW6]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Pepperoni: $2.25 [ID:7QTSNM427JP34]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Pepperonicini: $2.25 [ID:JVCZDTMSHFP88]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Pineapple: $2.25 [ID:MARWJJJSZ5H3C]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Red Roasted Peppers: $2.25 [ID:8EZBESF1RJ6AY]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Salami: $2.25 [ID:BG0BSQBH1DVPC]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Spinach: $2.25 [ID:3WP6Q83P5EVGT]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  10" Pizza Extra Toppings Tomatoes: $2.25 [ID:VB3P1AKTD87H8]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  14" Pizza: $15.00 [ID:3RVEC1ZQ5P6ZM]
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  18" Pizza: $21.20 [ID:XQ2HXV19DH9CJ]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  2 Lt Soda Coke: price varies by size [ID:Y1TMCFGS8PCQ4]
+  2 Lt Soda Dr. Peppers: price varies by size [ID:D01YF8RSBCBGY]
+  2 Lt Soda Fanta: price varies by size [ID:YGAY821ZJ2Q5E]
+  2 Lt Soda Sprite: price varies by size [ID:JBTVQCR68JZ6G]
+  2 Lt Soda Strawbery Fanta: price varies by size [ID:JRQ1WB3DMPJXY]
+  24" Pizza: $28.40 [ID:QMJW0D5G16SSP]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  28" Pizza: $39.70 [ID:H4KGBS9129CH6]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  30" Pizza: $43.80 [ID:74858VX5HWWSJ]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  36" Pizza: $73.70 [ID:QHE0A8MV9KET6]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Calzone 10": $13.49 [ID:F5GCPE7GBMK16]
+  Calzone 14": $17.49 [ID:DT72NAJV5SMBJ]
+  Calzone 16": $20.49 [ID:8JY2M932QNXGR]
+  Calzone 18": $23.49 [ID:4QTR3DXPPBZXM]
+  Calzone 24": $31.49 [ID:0FT90A611QGBY]
+  Calzone 28": $39.49 [ID:F48GD4XADZ1JA]
+  Custom Item: price varies by size [ID:GM8JSWVWPQH92]
+  Delivery: $7.30 [ID:GK7MXGS1TZA9P]
+  Gift card: price varies by size [ID:9C067EBFQRSA6]
+  Mod for slice Cheese: price varies by size [ID:Q2663ZE85PDHR]
+  Mod for slice Pepperoni: price varies by size [ID:WDKB70702C5CP]
+  Pizza Size: price varies by size [ID:W4JER1RG964B0]
+  Small French Fries: $3.60 [ID:6J7PWX7B0G8X8]
+  Southwestern Chicken Pizza: price varies by size [ID:07MP7NNRHKKGR]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Stromboli 10": $15.49 [ID:H2NWTFHRCS2QT]
+  Stromboli 14": $19.49 [ID:1PJACPSCWVJGM]
+  Stromboli 16": $23.49 [ID:F9RGNBS8H3D5R]
+  Stromboli 18": $25.49 [ID:QVE2ZB469Z37C]
+  Stromboli 24": $35.49 [ID:1KTH3C95JB3ZM]
+  Stromboli 28": $43.49 [ID:7NR7HJJHGMRMJ]
+  Tips: price varies by size [ID:PX67E11GAM8GE]
+  Vegeterian Pizza: price varies by size [ID:H9JY5SKG4R53T]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+
+--- PASTA ---
+  Baked Ravioni: $20.70 [ID:T1KHF07H2CFV4]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Baked Ziti: $20.70 [ID:EDK0J53XC2E1E]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Canneloni + salad: $18.10 [ID:K2E04WR7A0044]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Chicken Fettuccini Alfredo: $23.70 [ID:6FTMVZPVBA8WP]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Chicken Parmigiana: $21.20 [ID:GJBQ4Z3H4QKTE]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Creamy Butter Ravioli: $17.00 [ID:NJ0D3Z37S5T7G]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Eggplant Parmigiana: $18.10 [ID:P9BX6EX4P77ST]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Fetuccine Alfredo: $20.70 [ID:RXYT84FNQEZBP]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Lasagna: $20.70 [ID:XE54GJYF1TN32]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Manicotti w/ricotta & Egg: $18.10 [ID:6J6B0V5YGTSMY]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Marinara Ravioli: $17.00 [ID:9848TA2K1BMKY]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Napoli Whole Lotta Pasta: $24.30 [ID:RZ48WE6QF659J]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Ravioli Bolognese: $20.70 [ID:4C6JDREGS45TW]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Shrimp & Chicken Fettuccini Alfredo: $25.80 [ID:QXGVY0PYBDFBM]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Spaghetti & Meatsauce: $17.00 [ID:4XWCY14Q2YXGE]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Spaghetti & Sausage: $17.00 [ID:WNFKEJQ08F0V4]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Spaghetti w/ Marinara: $14.00 [ID:3W8SFAQ90B3RA]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Spaghetti& Meatballs: $17.00 [ID:RWDDDC94DFKFC]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Stuffed Shells w/ricotta: $18.10 [ID:BTG0YQ1F9ARNT]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Tortellini Ala Panna: $20.70 [ID:KMQKSAYGP6CAG]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Tortellini Alfredo: $21.20 [ID:5RBY6M98RYNV8]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Tortellini w/marinara: $20.70 [ID:2VNKEAPTSQNK8]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Ziti w/ Marinara: $14.00 [ID:AYC6WKXXH4H9E]
+    -> Pasta Side (REQUIRED): Salad & Bread, Double Bread
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+
+--- PESTO CHICKEN ---
+  Pesto Chicken 10" Pesto Chicken: $15.49 [ID:RYDQFE83MSPE8]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Pesto Chicken 14" Pesto Chicken: $22.49 [ID:BRWV6J10ZRT5W]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Pesto Chicken 16" Pesto Chicken: $26.49 [ID:CZNF02HV817D2]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Pesto Chicken 18" Pesto Chicken: $28.49 [ID:T2DB87JBB3J7Y]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Pesto Chicken 24" Pesto Chicken: $35.49 [ID:E1REWK10KMDS8]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Pesto Chicken 28" Pesto Chicken: $47.49 [ID:DFWSTRER45FS0]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Pesto Chicken 30" Pesto Chicken: $53.49 [ID:K1EXT0ZARYNBW]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Pesto Chicken 36" Pesto Chicken: $90.49 [ID:5K7EQQYQBQMHT]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- PICK UP SPECIAL ---
+  16" Pick Up Special: $13.40 [ID:CW12F1FG8HA94]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Half & Half 16" 1sr Half: price varies by size [ID:R0KGMDDMWN1HA]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Half & Half 16" 2nd Half: price varies by size [ID:NPKP8X1NT5MWM]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+
+--- PIZZA ---
+  10" Pizza: $9.80 [ID:15YHH24GF67ZY]
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Custom Item (optional): 1/2(+$1.30)
+  Hand Tossed 10" Pizza: $9.49 [ID:H41MBDTBXR2MT]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Hand Tossed 14" Pizza: $14.49 [ID:2J74ATGM451X2]
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Hand Tossed 16" Pizza: $17.49 [ID:QQ0DS0X6Y9CS2]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Hand Tossed 18" Pizza: $20.49 [ID:0GGHWR7M3FE2T]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Hand Tossed 24" Pizza: $27.49 [ID:S6TWKVG9S9RCM]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Hand Tossed 28" Pizza: $38.49 [ID:5T9HKC34SPTD6]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Hand Tossed 30" Pizza: $42.49 [ID:AFC2XTA2S4DDP]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Hand Tossed 36" Pizza: $71.49 [ID:FK8MAG0GFF4VJ]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+  Wraps Buffalo Chicken: $12.49 [ID:VEDECN2MXP29R]
+  Wraps Crispy Chicken: $12.49 [ID:CMGT5R06VWGXT]
+  Wraps Grilled Chicken Caesar: $14.49 [ID:DAQMPQ8ERBF68]
+
+--- RANCH PIZZA ---
+  Ranch Pizza 10" Ranch Pizza: $15.49 [ID:VNY6P1Y00M9CM]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Ranch Pizza 14" Ranch Pizza: $22.49 [ID:NGECGZBX7A5VW]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Ranch Pizza 16" Ranch Pizza: $26.49 [ID:3Y2NC16JDNGJJ]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Ranch Pizza 18" Ranch Pizza: $28.49 [ID:REJHWS2FE47F0]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Ranch Pizza 24" Ranch Pizza: $35.49 [ID:RX3MSD8Z2Y6C4]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Ranch Pizza 28" Ranch Pizza: $47.49 [ID:N06SCZGSWGAWG]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Ranch Pizza 30" Ranch Pizza: $56.49 [ID:EQ89YPX8KNHXM]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Ranch Pizza 36" Ranch Pizza: $90.49 [ID:AHH5SW2VKRGDJ]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- SALADS ---
+  Antipasto: price varies by size [ID:BGSMAXDQ0GVRE]
+    -> Antip Salad Size Egg (REQUIRED): Medium(+$10.90), Large(+$14.00)
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Blackened Chicken Salad: $14.00 [ID:6M1Q1NDBM5B98]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Buffallo Crispy Chicken Salad: $14.00 [ID:2AZM7J5T9JY90]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Caesar Salad: price varies by size [ID:WE0SBNVX0SW78]
+    -> Salad Size (optional): Medium(+$9.80), Large(+$14.00)
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Chicken Casesar Salad: price varies by size [ID:E9ZCCFR4WY9ZT]
+    -> Salad Size (optional): Medium(+$9.80), Large(+$14.00)
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Chicken Ceasar (optional): Medium(+$10.90), Large(+$14.00)
+  Crispy Chicken Salad: $14.00 [ID:B31J1MM8NZDJ6]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Dinner Salad: price varies by size [ID:V3SCW3RTEA2M6]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Dinner Salad (REQUIRED): Medium(+$6.70), Large(+$9.80)
+  EGGS Chef Salad: price varies by size [ID:CMV3K7ZCCJF2M]
+    -> Antip Salad Size Egg (REQUIRED): Medium(+$10.90), Large(+$14.00)
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Greek Salad: $14.00 [ID:AHT0Q3RRX0K0G]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Gyro Salad: $16.00 [ID:7KEGQRFW4WXT2]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Mediterranean Salad: $14.00 [ID:ZNVJMAT7AC2GM]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Napoli Italian Chopped Salad: $16.00 [ID:795AGHCH7E3ZG]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Spinach Salad: $15.00 [ID:G6Q6HRG064F8P]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+    -> Spinach Salad (optional): Large(+$15.00)
+  Steak Salad: $17.00 [ID:RXECXK4BDTJ6Y]
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+
+--- SANDWICHES ---
+  Buffalo Chicken Breast W/cheese: $12.90 [ID:HFVDXB816MJB2]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  California Turkey + salad: $12.90 [ID:WX6PKZJ9HNCG6]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Crispy Chicken W/cheese + Fries: $12.90 [ID:TQ1HVCD5ESJ42]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Eggplant Parm + salad: $12.90 [ID:NM8VYEKTWGV5J]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Griled Chiken W Cheese + salad: $12.90 [ID:A5ZV8TYMN39GG]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Grilled Sausage Peppers & Onion: $12.90 [ID:KE3E767Y3WKAG]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Ham & Cheese + Salad: $12.90 [ID:BEGBPXT4BHZVT]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Hot Pastrami + salad: $12.90 [ID:CYVVPEEXD82JG]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+    -> Dressing (optional): Italian, Ranch, Blue Cheese, 1000 Island, Honey Musterd, Caesar, French, Oil & Balsamic Viniger, Vinaigrette
+  Meatball &Sausage Parmagiana +fries: $12.90 [ID:JTB3R9XZ8FBQR]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Meatball Parmagiana + salad: $12.90 [ID:09WQ6VD0X5R6G]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Napoli Italian Special + fries: $12.90 [ID:T6GATR3640CSW]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Philly Steak + Fries: $12.90 [ID:P07GFBEYXKZEJ]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Philly Steak Bomb + Onions Rings: $12.90 [ID:QKCA3T979YYJA]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Rost Beef Cheese + salad: $12.90 [ID:9QBSHW65WFC2G]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Triple Decker Chicken + fries: $12.90 [ID:W3EQXGZBFBNFJ]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Triple Decker Chicken And Bacon + salad: $14.00 [ID:JFSRQ2S9GCX8E]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Triple Decker Turkey And Bacon + salad: $12.90 [ID:9HRFZS0W57G50]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Triple Deckers Turkey + salad: $11.90 [ID:NFZ7XY43FJJ9E]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+  Turkey And Cheese + Fries: $12.90 [ID:21WHCK9MDQENT]
+    -> Sides S (REQUIRED): Fries, Side Salad, Onion Rings
+
+--- SICILIAN 12X8 ---
+  Sicilian 12x8: $27.99 [ID:02VYWFNPMKNBW]
+    -> Sicilian 12x8 Mod (optional): Single Topp(+$3.50), Sicilian mod 4 Toppins(+$9.99)
+
+--- SIDES ---
+  Marinara w/beef: $10.90 [ID:WGBEECBC20GRP]
+  Meatballs(2): $7.80 [ID:6V2C3NTC4A49M]
+  Pasta Salad: $4.70 [ID:TXF9EYGA49VE4]
+  Sausage(2): $7.80 [ID:SBMC77DZDJQ9P]
+  Side Salad: $4.70 [ID:2BD7275M8RCSA]
+
+--- SOUTHWESTERN CHICKEN PIZZA ---
+  Southwestern Chicken Pizza 10" Southwestern Chicken Pizza: $15.49 [ID:19JVFN0GFQHPC]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Southwestern Chicken Pizza 14" Southwestern Chicken Pizza: $22.49 [ID:8EKG3P09NBEEC]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Southwestern Chicken Pizza 16" Southwestern Chicken Pizza: $16.49 [ID:2S1Q6YJBA9JZC]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Southwestern Chicken Pizza 18" Southwestern Chicken Pizza: $28.49 [ID:37K93P4XK775W]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Southwestern Chicken Pizza 24" Southwestern Chicken Pizza: $35.49 [ID:CVS1YXDAA7GZM]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Southwestern Chicken Pizza 28" Southwestern Chicken Pizza: $47.49 [ID:QGAXT5V8EBBNG]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Southwestern Chicken Pizza 30" Southwestern Chicken Pizza: $53.49 [ID:5C87QF69XV2MC]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Southwestern Chicken Pizza 36" Southwestern Chicken Pizza: $90.49 [ID:MTEJVF50DZMK4]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- SPECIAL PIZZA & WINGS ---
+  16" Pizza + 20 Wings: $27.99 [ID:KMNATZ3VHAY1M]
+    -> 1 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Plain, Ex Cheese, Sausage, Ham, Bl Olives, Pineapple, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+
+--- SPECIALTY PIZZA ---
+  4 Toppings Combo Pizza: price varies by size [ID:0MTCXBZNQSM4C]
+    -> 4 Toppings Incluid - (30 options). (REQUIRED): Pepperoni, Ex Cheese, Sausage, Ham, Pineapple, Bl Olives, Bacon, Basil, Green Peppers, Jalapenos, Meatballs, Ground Beef, Grilled Chicken, Garlic, Spinach, Mushroom, Onion, Salami, Tomatoes, Chedar Cheese
+    -> 4 Topping Combo (optional): 10" Pizza(+$15.00), 14" Pizza(+$22.20), 16" Pizza(+$26.30), 18" Pizza(+$28.40), 24" Pizza(+$35.60), 28"(+$48.00), 30"(+$54.20), 36"(+$89.20)
+  Gluten Free Pizza EXTRA Topps: $2.75 [ID:C18VH2GEWM64M]
+    -> Gluten Free Pizza (optional): 
+  Italian Pizza: price varies by size [ID:082CDPWK0FS0G]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Margarita Pizza: price varies by size [ID:GGHT31KN9XBPE]
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Meat Lover Pizza: price varies by size [ID:ZNAEQEVQVQ05Y]
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+  Mexican Style Pizza: price varies by size [ID:2YQ7DP539SPQM]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Napoli Special Pizza: price varies by size [ID:Q5P394HBCYWV6]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+  Taco Pizza: price varies by size [ID:E9NJ6PGTFJN9Y]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+    -> Pizza Sizes (REQUIRED): 10 Inches(+$16.00), 14 Inches(+$23.20), 16 Inches(+$27.40), 18 Inches(+$29.40), 24 Inches(+$36.60), 28 Inches(+$49.00), 30 Inches(+$55.20), 36 Inches(+$93.30)
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+    -> Prep For Pizza (optional): Well Done, Cryspi, Thin Crust, Square Cut, Double Cut, Light Sauce, Ex Sauce(+$0.60)
+
+--- STUFFED DOUGH ---
+  14" Stuffed Dough 4 toppings: $43.99 [ID:5HH6SCTHW5F6W]
+  14" Stuffed Dough Stuffed Chicago Deep Dish: $29.99 [ID:HV4SEQVPYCEFM]
+    -> 14" Extras for Stuffed Chicago (optional): Tomatoes(+$6.50), Canadian Bacon(+$6.50), Spinach(+$6.50), Salami(+$6.50), Red Roasted Peppers(+$6.50), Pineapple(+$6.50), Pepperonicini(+$6.50), Pepperoni(+$6.50), Onions(+$6.50), Mushooms(+$6.50), Meatball(+$6.50), Jalapenos(+$6.50), Italian Sausage(+$6.50), Ham(+$6.50), Ground Beef(+$6.50), Feta Cheese(+$6.50), Green Peppers(+$6.50), Green Olives(+$6.50), Fresh Garlic(+$6.50), Eggplant(+$6.50)
+
+--- SUPREME PIZZA ---
+  Supreme 10": $15.49 [ID:TK54KSEM9MQ0C]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Supreme 14": $22.49 [ID:MH3Z7ETAFX54J]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Supreme 16": $26.49 [ID:056JS35VPC9HR]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Supreme 18": $28.49 [ID:9NWS0P5CNKAZE]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Supreme 24": $35.49 [ID:TN2RYHMRC02YT]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Supreme 28": $47.49 [ID:YXZQN7YJ9XREC]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Supreme 30": $53.49 [ID:332WF243M3AC8]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Supreme 36": $90.48 [ID:VM079565EV19A]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- TACO PIZZA ---
+  Taco Pizza 10" Taco Pizza: $15.49 [ID:AX2FQ465FMF2T]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Taco Pizza 14" Taco Pizza: $22.49 [ID:QA5VR40CE5M2Y]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Taco Pizza 16" Taco Pizza: $26.49 [ID:WM92H41VKB5Q8]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Taco Pizza 18" Taco Pizza: $28.49 [ID:ZEKBJS4F8QK2E]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Taco Pizza 24" Taco Pizza: $35.49 [ID:F5ZAWA8S0G5ZW]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Taco Pizza 28" Taco Pizza: $47.49 [ID:T04BEDYF2VS4P]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Taco Pizza 30" Taco Pizza: $53.49 [ID:J4B6MGM9K5CBA]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Taco Pizza 36" Taco Pizza: $90.49 [ID:XSCREJRC7HY3P]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- ULTIMATE MEAT LOVER ---
+  Ultimate Meat Lover 10": $19.49 [ID:K4F9EVNV0Z6MA]
+  Ultimate Meat Lover 14": $26.49 [ID:DVWPJKKNA4Y0M]
+  Ultimate Meat Lover 16": $30.49 [ID:Y6ZFPN32T49G6]
+  Ultimate Meat Lover 18": $35.49 [ID:G0T4X3458X022]
+  Ultimate Meat Lover 24": $44.49 [ID:Y5H66T7D2YPCP]
+  Ultimate Meat Lover 28": $56.49 [ID:33J6NA6ZC7RMP]
+  Ultimate Meat Lover 30": $59.49 [ID:7CYZP9T5A125C]
+  Ultimate Meat Lover 36": $96.49 [ID:RJPY7Z1DV8NYJ]
+
+--- ULTIMATE VEGETARIAN ---
+  Ultimate Vegetarian 10": $17.49 [ID:S7J1CFNP6795J]
+  Ultimate Vegetarian 14": $24.49 [ID:6X9QXBZQ49BKG]
+  Ultimate Vegetarian 16": $27.49 [ID:ZXT3DZD51171R]
+  Ultimate Vegetarian 18": $31.49 [ID:P8GEWAFPHG300]
+  Ultimate Vegetarian 24": $37.49 [ID:65ZH6PWRDFY42]
+  Ultimate Vegetarian 28": $51.49 [ID:9RS7J7V3EMKA6]
+  Ultimate Vegetarian 30": $56.49 [ID:4ENJZ80RJ3EK0]
+  Ultimate Vegetarian 36": $92.49 [ID:8329TMY6HDV6G]
+
+--- VEGETARIAN PIZZA ---
+  Vegetarian Pizza 10" Vegetarian Pizza: $15.49 [ID:96A651QABC5E6]
+    -> 10" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Bl Olives(+$2.58), Mushooms(+$2.50), Italian Sausage(+$2.50), Salami(+$2.50), Canadian Bacon(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Onions(+$2.50), Spinach(+$2.50), Tomatoes(+$2.50), Meatball(+$2.50), Jalapenos(+$2.50), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Vegetarian Pizza 14" Vegetarian Pizza: $22.49 [ID:ZDYSCRXPWEDEE]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  Vegetarian Pizza 16" Vegetarian Pizza: $26.49 [ID:2WDT2X7H487FE]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  Vegetarian Pizza 18" Vegetarian Pizza: $28.49 [ID:YK297MGGVHHD8]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  Vegetarian Pizza 24" Vegetarian Pizza: $35.49 [ID:M93NPZRVG7HSC]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  Vegetarian Pizza 28" Vegetarian Pizza: $47.49 [ID:5G2VVPS0M6172]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  Vegetarian Pizza 30" Vegetarian Pizza: $53.49 [ID:29J4ZFRG3VG5R]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  Vegetarian Pizza 36" Vegetarian Pizza: $90.49 [ID:4THT19GPEH9VM]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- WHITE PIZZA ---
+  White Pizza 10" White Pizza: $15.49 [ID:B1W9SMN9BSDF0]
+  White Pizza 14" White Pizza: $22.49 [ID:KPQR14WD5DGDJ]
+    -> 14" Pizza Extra Toppings (optional): Pepperoni(+$2.50), Mushooms(+$2.50), Italian Sausage(+$2.50), Canadian Bacon(+$2.50), Spinach(+$2.50), Salami(+$2.50), Red Roasted Peppers(+$2.50), Pineapple(+$2.50), Tomatoes(+$2.50), Pepperonicini(+$2.50), Onions(+$2.50), Meatball(+$2.50), Jalapenos(+$0.25), Ham(+$2.50), Ground Beef(+$2.50), Feta Cheese(+$2.50), Green Peppers(+$2.50), Green Olives(+$2.50), Fresh Garlic(+$2.50), Eggplant(+$2.50)
+  White Pizza 16" White Pizza: $26.49 [ID:ZMHBP34BXFA92]
+    -> 16" Pizza Topp Extras (optional): Pepperoni(+$3.10), Ex Cheese(+$3.10), Sausage(+$3.10), Ham(+$3.10), Pinapple(+$3.10), Jalapeno(+$3.10), Meatballs(+$3.10), Bacon(+$3.10), Basil(+$3.10), Black Olives(+$3.10), Onions(+$3.10), Mushroom(+$3.10), Gr Pepper(+$3.10), Cheddar Cheese(+$3.10), Chicken(+$3.10), Ground Geef(+$3.10), Garlic(+$3.10), Gr Olives(+$3.10), Tomato(+$3.10), Feta(+$3.10)
+  White Pizza 18" White Pizza: $28.49 [ID:Y1PFZX1XFQ12E]
+    -> 18" Pizza Topp extras (optional): Pepperoni(+$3.70), Sausage(+$3.70), Chicken(+$3.70), Meatballs(+$3.70), Gr Beef(+$3.70), Anchovis(+$3.70), Artichoke Hearts(+$3.70), Basil(+$3.70), Bl Olives(+$3.70), Brocoli(+$3.70), Zuccini(+$3.70), Capacoli(+$3.70), Cheddar Cheese(+$3.70), Garlic(+$3.70), Chorizo(+$3.70), Eggplant(+$3.70), Gr Olives(+$3.70), Gr Peppers(+$3.70), Feta(+$3.70), Ham(+$3.70)
+  White Pizza 24" White Pizza: $35.49 [ID:4R34B37AVSFGA]
+    -> 24" Pizza Topp Extras (optional): Pepperoni(+$4.70), Chicken(+$4.70), Gr Beef(+$4.70), Sausage(+$4.70), Ham(+$4.70), Salami(+$4.70), Meatball(+$4.70), Anchoves(+$4.70), Artichok(+$4.70), Basil(+$4.70), Bl Olives(+$4.70), Broccoli(+$4.70), Zuccini(+$4.70), Capacoli(+$4.70), Cheddar Cheese(+$4.70), Garlic(+$4.70), Eggplant(+$4.70), Gr Olives(+$4.70), Gr Peppers(+$4.70), Feta(+$4.70)
+  White Pizza 28" White Pizza: $47.49 [ID:Y22YDYZCH7QDE]
+    -> 28" Pizza Topp extras (optional): Pepperoni(+$5.70), Sausage(+$5.70), Chicken(+$5.70), Gr Beef(+$5.70), Meatball(+$5.70), Anchovis(+$5.70), Artichok(+$5.70), Basil(+$5.70), Bl Olives(+$5.70), Broccoli(+$5.70), Zuccini(+$5.70), Capacoli(+$5.70), Cheddar Cheese(+$5.70), Chorizo(+$5.70), Eggplant(+$5.70), Garlic(+$5.70), Gr Olives(+$5.70), Gr Peppers(+$5.70), Feta(+$5.70), Ham(+$5.70)
+  White Pizza 30" White Pizza: $53.49 [ID:EGXBRGJC89YRE]
+    -> 30" Pizza Topp (optional): Pepperoni(+$6.20), Sausage(+$6.20), Ham(+$6.20), Meatball(+$6.20), Gr Beef(+$6.20), Anchovis(+$6.20), Artichok(+$6.20), Basil(+$6.20), Bl Olives(+$6.20), Broccoli(+$6.20), Zuccini(+$6.20), Capocola(+$6.20), Cheddar Cheese(+$6.20), Chorizo(+$6.20), Eggplant(+$6.20), Garlic(+$6.20), Gr Olives(+$6.20), Gr Peppers(+$6.20), Feta(+$6.20), Jalapino(+$6.20)
+  White Pizza 36" White Pizza: $90.49 [ID:S82Z7QMVQ9W34]
+    -> 36" Pizza Topp (optional): Pepperoni(+$10.10), Sausage(+$10.10), Ham(+$10.10), Meatball(+$10.10), Chicken(+$10.10), Gr Beef(+$10.10), Anchovis(+$10.10), Artichok(+$10.10), Basil(+$10.10), Bl Olives(+$10.10), Broccoli(+$10.10), Zuccini(+$10.10), Capacoli(+$10.10), Cheddar Cheese(+$10.10), Chorizo(+$10.10), Eggplant(+$10.10), Garlic(+$10.10), Gr Olives(+$10.10), Gr Pepper(+$10.10), Feta(+$10.10)
+
+--- WINGS ---
+  Boneless Wings: price varies by size [ID:5Y7Y3AQ23XFPG]
+    -> Boneless Wings (REQUIRED): 6 Pc(+$9.80), 10 Pc(+$14.00), 20 Pc(+$26.30), 40 Pc(+$49.00), 80 Pc(+$92.30), Well Done
+    -> Fries (optional): Small Fries(+$2.10), Large Fries(+$4.20)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  Tenders: price varies by size [ID:R71JXR9M68JNJ]
+    -> Fries (optional): Small Fries(+$2.10), Large Fries(+$4.20)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Chicken Fingers (REQUIRED): 5 Pc Chicken Fingers(+$14.00), 10 Pc Chicken Fingers(+$23.20), 20 Pc Chicken Fingers(+$41.80), 40 Pc Chicken Finger(+$77.90), 80 Pc Chicken Finger(+$149.00)
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+  Wings: price varies by size [ID:KQXZYE71T0EME]
+    -> Fries (optional): Small Fries(+$2.10), Large Fries(+$4.20)
+    -> Sauce Flavor incluid (optional): Plain, Mild, Medium, Hot, BBQ, Spicy Bbq, Spicy Honey Bbq, Lemon Pepper, Teriyaki, Spicy Teriyaki, Garlic Parm, Sweet Red Chili, Mango Habanero, Ranch, Blue Cheese
+    -> Bone In Wings (REQUIRED): 6 Pc(+$11.90), 10 Pc(+$16.00), 20 Pc(+$30.40), 40 Pc(+$58.30), 80 Pc(+$111.90)
+    -> Fingers & Wings Prepp (optional): Well Done
+    -> Sauce  Flavor Extras 6 onz (optional): Medium(+$2.40), Hot(+$2.60), BBQ(+$2.40), Spicy Bbq(+$2.40), Spicy Honey Bbq(+$2.40), Lemon Pepper(+$2.40), Teriyaki(+$2.40), Spicy Teriyaki(+$2.40), Garlic Parm(+$2.40), Sweet Red Chili(+$2.40), Mango Habanero(+$2.40), Ranch(+$2.40), Blue Cheese(+$2.40)
+
+--- WRAPS ---
+  Wraps Buffalo Chicken: $12.49 [ID:VEDECN2MXP29R]
+  Wraps Crispy Chicken: $12.49 [ID:CMGT5R06VWGXT]
+  Wraps Grilled Chicken Caesar: $14.49 [ID:DAQMPQ8ERBF68]

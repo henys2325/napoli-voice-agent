@@ -1,0 +1,214 @@
+{
+  "_comment": "Vapi.ai Agent Configuration for Napoli Pizzeria Voice Ordering System",
+  "_instructions": "Import this config via Vapi Dashboard or POST to https://api.vapi.ai/assistant",
+
+  "name": "Napoli Pizzeria Order Agent",
+  "model": {
+    "provider": "openai",
+    "model": "gpt-4o",
+    "temperature": 0.3,
+    "systemPrompt": "You are Sofia, the friendly AI phone ordering assistant for Napoli Pizzeria in North Las Vegas, Nevada. You take phone orders professionally and efficiently in English, Spanish, or Russian — automatically matching the language the caller uses.\n\nRESTAURANT INFO:\n- Name: Napoli Pizzeria\n- Address: 3131 W. Craig Rd., North Las Vegas, NV 89032\n- Phone: 725-204-0379\n- Hours: Every Day 10:00 AM – 10:00 PM (Pacific Time)\n- Lunch Specials: Monday–Friday 10:00 AM – 3:00 PM ONLY\n- Services: Delivery, Dine-In, Pick Up, Catering\n- Delivery fee: $1.99 | Card fee: $1.00 | Tax: 8.375%\n\nYOUR ROLE:\n1. Greet the caller warmly\n2. Ask if they want Delivery or Pick Up\n3. If Delivery: ask for their delivery address\n4. Take their order item by item — ask about size, toppings, and modifiers for each item\n5. Repeat the full order back to confirm\n6. Ask for their name and phone number (to send the payment link)\n7. Calculate the total (including tax, delivery fee if applicable, and $1.00 card fee)\n8. Call the 'submit_order_and_send_payment' tool to create the order and send the payment link via SMS\n9. Tell the customer: 'I've sent a payment link to your phone. Your order will be sent to the kitchen as soon as payment is received. The link expires in 15 minutes.'\n10. Thank them and end the call\n\nIMPORTANT RULES:\n- ALWAYS confirm the order before submitting\n- ALWAYS tell the customer their order will NOT be prepared until payment is received\n- For pizzas: always ask for size (10\", 14\", 16\", 18\", 24\", 28\", 30\", 36\") and toppings\n- For wings: always ask for quantity and sauce flavor (BBQ, Buffalo, Lemon Pepper, etc.)\n- For wraps: ask for type (Grilled Chicken Caesar, Crispy Chicken, Buffalo Chicken) and bread (flour, wheat, gluten-free)\n- Lunch Specials are only available Mon–Fri before 3 PM — inform the customer if they try to order them outside those hours\n- Be conversational but efficient — don't ask too many questions at once\n- If you don't know a price, use the 'search_menu_item' tool to look it up\n\nLANGUAGE BEHAVIOR:\n- If the caller speaks Spanish, respond entirely in Spanish\n- If the caller speaks Russian, respond entirely in Russian  \n- If the caller speaks English (or any other language), respond in English\n- Never switch languages mid-call unless the caller switches first"
+  },
+  "voice": {
+    "provider": "11labs",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "stability": 0.5,
+    "similarityBoost": 0.75,
+    "speed": 1.0,
+    "_comment_voice": "EXAVITQu4vr4xnSDxMaL = Sarah (natural female voice). Alternatives: 21m00Tcm4TlvDq8ikWAM (Rachel), pNInz6obpgDQGcFmaJgB (Adam)"
+  },
+  "transcriber": {
+    "provider": "deepgram",
+    "model": "nova-2",
+    "language": "multi",
+    "_comment": "multi = auto-detect English, Spanish, Russian"
+  },
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "search_menu_item",
+        "description": "Search for a menu item by name to get its price, ID, and available modifiers (sizes, toppings, etc.)",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "The name or partial name of the menu item to search for (e.g., 'pepperoni pizza', 'wings', 'caesar salad')"
+            },
+            "category": {
+              "type": "string",
+              "description": "Optional category hint to narrow the search (e.g., 'pizza', 'wings', 'salad')"
+            }
+          },
+          "required": ["query"]
+        }
+      },
+      "server": {
+        "url": "{{BASE_URL}}/vapi/tool-call",
+        "timeoutSeconds": 10
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "calculate_order_total",
+        "description": "Calculate the total price of the order including tax, delivery fee, and card fee",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "items": {
+              "type": "array",
+              "description": "List of items in the order",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "item_id": {"type": "string", "description": "Clover item ID"},
+                  "item_name": {"type": "string", "description": "Item name"},
+                  "quantity": {"type": "integer", "description": "Quantity"},
+                  "unit_price_cents": {"type": "integer", "description": "Unit price in cents"},
+                  "modifier_ids": {"type": "array", "items": {"type": "string"}, "description": "Modifier IDs"},
+                  "modifier_names": {"type": "array", "items": {"type": "string"}, "description": "Modifier names"},
+                  "modifier_prices_cents": {"type": "array", "items": {"type": "integer"}, "description": "Modifier prices in cents"}
+                },
+                "required": ["item_name", "quantity", "unit_price_cents"]
+              }
+            },
+            "order_type": {
+              "type": "string",
+              "enum": ["pickup", "delivery"],
+              "description": "Whether this is a pickup or delivery order"
+            }
+          },
+          "required": ["items", "order_type"]
+        }
+      },
+      "server": {
+        "url": "{{BASE_URL}}/vapi/tool-call",
+        "timeoutSeconds": 10
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "submit_order_and_send_payment",
+        "description": "Submit the order, generate a Clover payment link, and send it to the customer via SMS. Call this ONLY after confirming the full order with the customer.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "customer_phone": {
+              "type": "string",
+              "description": "Customer's phone number (10 digits, e.g., '7025551234')"
+            },
+            "customer_name": {
+              "type": "string",
+              "description": "Customer's name"
+            },
+            "order_type": {
+              "type": "string",
+              "enum": ["pickup", "delivery"],
+              "description": "Pickup or delivery"
+            },
+            "delivery_address": {
+              "type": "string",
+              "description": "Full delivery address (required if order_type is delivery)"
+            },
+            "items": {
+              "type": "array",
+              "description": "Complete list of ordered items",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "item_id": {"type": "string"},
+                  "item_name": {"type": "string"},
+                  "quantity": {"type": "integer"},
+                  "unit_price_cents": {"type": "integer"},
+                  "modifier_ids": {"type": "array", "items": {"type": "string"}},
+                  "modifier_names": {"type": "array", "items": {"type": "string"}},
+                  "modifier_prices_cents": {"type": "array", "items": {"type": "integer"}},
+                  "special_instructions": {"type": "string"}
+                },
+                "required": ["item_name", "quantity", "unit_price_cents"]
+              }
+            },
+            "language": {
+              "type": "string",
+              "enum": ["en", "es", "ru"],
+              "description": "Language for the SMS message"
+            }
+          },
+          "required": ["customer_phone", "customer_name", "order_type", "items", "language"]
+        }
+      },
+      "server": {
+        "url": "{{BASE_URL}}/vapi/tool-call",
+        "timeoutSeconds": 15
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "get_restaurant_info",
+        "description": "Get current restaurant information: hours, whether it's open now, lunch specials availability",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "description": "What info is needed (e.g., 'hours', 'address', 'is_open')"
+            }
+          },
+          "required": []
+        }
+      },
+      "server": {
+        "url": "{{BASE_URL}}/vapi/tool-call",
+        "timeoutSeconds": 5
+      }
+    }
+  ],
+  "firstMessage": "Thank you for calling Napoli Pizzeria! This is Sofia, your order assistant. Are you calling to place an order for pickup or delivery today?",
+  "firstMessageMode": "assistant-speaks-first",
+  "endCallMessage": "Thank you for choosing Napoli Pizzeria! We look forward to serving you. Have a great day!",
+  "endCallPhrases": [
+    "goodbye", "bye", "that's all", "thank you bye", 
+    "adiós", "hasta luego", "eso es todo",
+    "до свидания", "пока", "это всё"
+  ],
+  "maxDurationSeconds": 600,
+  "silenceTimeoutSeconds": 30,
+  "responseDelaySeconds": 0.4,
+  "llmRequestDelaySeconds": 0.1,
+  "numWordsToInterruptAssistant": 3,
+  "backgroundSound": "restaurant",
+  "backchannelingEnabled": true,
+  "backgroundDenoisingEnabled": true,
+  "modelOutputInMessagesEnabled": true,
+  "startSpeakingPlan": {
+    "waitSeconds": 0.4,
+    "smartEndpointingEnabled": true
+  },
+  "stopSpeakingPlan": {
+    "numWords": 3,
+    "voiceSeconds": 0.2,
+    "backoffSeconds": 1.0
+  },
+  "analysisPlan": {
+    "summaryPrompt": "Summarize this call: what did the customer order, what was the total, was payment link sent, and was the customer satisfied?",
+    "structuredDataPrompt": "Extract: customer_name, customer_phone, order_type (pickup/delivery), items_ordered (list), total_usd, payment_link_sent (boolean), language_used",
+    "structuredDataSchema": {
+      "type": "object",
+      "properties": {
+        "customer_name": {"type": "string"},
+        "customer_phone": {"type": "string"},
+        "order_type": {"type": "string"},
+        "items_ordered": {"type": "array", "items": {"type": "string"}},
+        "total_usd": {"type": "number"},
+        "payment_link_sent": {"type": "boolean"},
+        "language_used": {"type": "string"}
+      }
+    },
+    "successEvaluationPrompt": "Did the AI agent successfully take the order and send a payment link? Answer true/false.",
+    "successEvaluationRubric": "PassFail"
+  }
+}
