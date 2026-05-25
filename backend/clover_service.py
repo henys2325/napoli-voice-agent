@@ -52,8 +52,8 @@ class CloverService:
             }
             if item.get("note"):
                 li["note"] = item["note"][:255]
-            if tax_rate and item["name"] not in ("Delivery Fee", "Card Processing Fee"):
-                li["taxRates"] = [{"name": "NV Tax 8.25%", "rate": tax_rate}]
+            if tax_rate and item["name"] not in ("Delivery Fee", "Convenience Fee (3%)", "Card Processing Fee"):
+                li["taxRates"] = [{"name": "NV Tax 8.375%", "rate": tax_rate}]
             line_items.append(li)
 
         payload = {

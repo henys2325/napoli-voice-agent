@@ -24,9 +24,12 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
 from clover_service import CloverService
 from sms_service import SMSService
 from order_store import OrderStore
+from email_service import send_new_order_alert, send_order_to_kitchen_alert
 
 # ─── Logging ────────────────────────────────────────────────
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
@@ -125,7 +128,8 @@ async def handle_vapi_tool_call(request: Request, background_tasks: BackgroundTa
     logger.info(f"Vapi tool call received: {json.dumps(body, indent=2)[:500]}")
 
     message = body.get("message", {})
-    tool_calls = message.get("toolCalls", [])
+    # Support both Vapi formats: toolCalls (new) and toolCallList (legacy)
+    tool_calls = message.get("toolCalls", []) or message.get("toolCallList", [])
 
     results = []
     for tc in tool_calls:
@@ -219,15 +223,15 @@ async def tool_calculate_total(args: dict) -> dict:
         })
 
     delivery_fee = 199 if order_type == "delivery" else 0
-    card_fee = 100
-    tax = int(subtotal * 0.0825)
-    total = subtotal + delivery_fee + card_fee + tax
+    convenience_fee = int(subtotal * 0.03)  # 3% Convenience Fee (not taxable)
+    tax = int(subtotal * 0.08375)           # 8.375% NV tax on food only (not on fees)
+    total = subtotal + delivery_fee + convenience_fee + tax
 
     return {
         "line_items": line_items,
         "subtotal_usd": round(subtotal / 100, 2),
         "delivery_fee_usd": round(delivery_fee / 100, 2),
-        "card_fee_usd": round(card_fee / 100, 2),
+        "convenience_fee_usd": round(convenience_fee / 100, 2),
         "tax_usd": round(tax / 100, 2),
         "total_usd": round(total / 100, 2),
         "total_cents": total
@@ -276,7 +280,12 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     # Add fees
     if order_type == "delivery":
         checkout_items.append({"name": "Delivery Fee", "price": 199, "unitQty": 1, "note": ""})
-    checkout_items.append({"name": "Card Processing Fee", "price": 100, "unitQty": 1, "note": ""})
+    # 3% Convenience Fee (not taxable — added as separate line item with no taxRates)
+    convenience_fee_cents = int(sum(
+        (item.get("unit_price_cents", 0) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
+        for item in items
+    ) * 0.03)
+    checkout_items.append({"name": "Convenience Fee (3%)", "price": convenience_fee_cents, "unitQty": 1, "note": "Non-taxable"})
 
     # Generate Clover Hosted Checkout link
     checkout_result = await clover.create_checkout_session(
@@ -320,6 +329,9 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
         payment_url=payment_url,
         language=language
     )
+
+    # Notify manager of new order
+    background_tasks.add_task(send_new_order_alert, order_record)
 
     logger.info(f"Order created. Session: {session_id} | Total: ${total_data['total_usd']} | Phone: {customer_phone}")
 
@@ -428,6 +440,10 @@ async def push_order_to_clover(session_id: str, order: dict):
                 order_type=order["order_type"],
                 language=order.get("language", "en")
             )
+
+            # Notify manager that order is in kitchen
+            kitchen_order = {**order, "clover_order_id": result["clover_order_id"]}
+            send_order_to_kitchen_alert(kitchen_order)
         else:
             store.update_order_status(session_id, "clover_error")
             logger.error(f"Failed to push order {session_id} to Clover: {result.get('error')}")
@@ -452,6 +468,59 @@ async def get_order(order_id: str):
 @app.get("/api/stats")
 async def get_stats():
     return store.get_stats()
+
+# ─── Test Endpoints ─────────────────────────────────────────
+
+@app.post("/test/kitchen-print")
+async def test_kitchen_print():
+    """Test endpoint: sends a test order to Clover POS to verify kitchen printing."""
+    test_order = {
+        "items": [
+            {
+                "item_id": "F9G6EBX5SCKK4",
+                "item_name": "[KITCHEN TEST] Pepperoni Pizza",
+                "quantity": 1,
+                "unit_price_cents": 1299,
+                "modifier_ids": [],
+                "modifier_names": [],
+                "special_instructions": "SYSTEM TEST - Please ignore"
+            }
+        ],
+        "order_type": "pickup",
+        "customer_name": "Kitchen Test",
+        "customer_phone": "7025551234",
+        "delivery_address": "",
+        "total_cents": 1299
+    }
+    result = await clover.create_pos_order(test_order)
+    return {
+        "test": "kitchen_print",
+        "clover_result": result,
+        "message": "Check your kitchen printer!" if result.get("success") else "Failed to send to Clover POS"
+    }
+
+@app.get("/test/clover-connection")
+async def test_clover_connection():
+    """Test endpoint: verify Clover API connectivity."""
+    import httpx
+    merchant_id = os.getenv("CLOVER_MERCHANT_ID", "MRWSQWMCDSHQ1")
+    api_token = os.getenv("CLOVER_API_TOKEN", "2148cad7-875f-f420-714a-1b29c5af924c")
+    base_url = os.getenv("CLOVER_BASE_URL", "https://api.clover.com")
+    headers = {
+        "Authorization": f"Bearer {api_token}",
+        "Accept": "application/json"
+    }
+    try:
+        async with httpx.AsyncClient(timeout=10) as client:
+            r = await client.get(f"{base_url}/v3/merchants/{merchant_id}", headers=headers)
+            return {
+                "status_code": r.status_code,
+                "success": r.status_code == 200,
+                "merchant_id": merchant_id,
+                "response_preview": r.text[:200] if r.status_code == 200 else r.text[:200]
+            }
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 
 # ─── Static Frontend ─────────────────────────────────────────
 
