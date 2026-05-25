@@ -128,7 +128,8 @@ async def handle_vapi_tool_call(request: Request, background_tasks: BackgroundTa
     logger.info(f"Vapi tool call received: {json.dumps(body, indent=2)[:500]}")
 
     message = body.get("message", {})
-    tool_calls = message.get("toolCalls", [])
+    # Support both Vapi formats: toolCalls (new) and toolCallList (legacy)
+    tool_calls = message.get("toolCalls", []) or message.get("toolCallList", [])
 
     results = []
     for tc in tool_calls:
@@ -467,6 +468,59 @@ async def get_order(order_id: str):
 @app.get("/api/stats")
 async def get_stats():
     return store.get_stats()
+
+# ─── Test Endpoints ─────────────────────────────────────────
+
+@app.post("/test/kitchen-print")
+async def test_kitchen_print():
+    """Test endpoint: sends a test order to Clover POS to verify kitchen printing."""
+    test_order = {
+        "items": [
+            {
+                "item_id": "F9G6EBX5SCKK4",
+                "item_name": "[KITCHEN TEST] Pepperoni Pizza",
+                "quantity": 1,
+                "unit_price_cents": 1299,
+                "modifier_ids": [],
+                "modifier_names": [],
+                "special_instructions": "SYSTEM TEST - Please ignore"
+            }
+        ],
+        "order_type": "pickup",
+        "customer_name": "Kitchen Test",
+        "customer_phone": "7025551234",
+        "delivery_address": "",
+        "total_cents": 1299
+    }
+    result = await clover.create_pos_order(test_order)
+    return {
+        "test": "kitchen_print",
+        "clover_result": result,
+        "message": "Check your kitchen printer!" if result.get("success") else "Failed to send to Clover POS"
+    }
+
+@app.get("/test/clover-connection")
+async def test_clover_connection():
+    """Test endpoint: verify Clover API connectivity."""
+    import httpx
+    merchant_id = os.getenv("CLOVER_MERCHANT_ID", "MRWSQWMCDSHQ1")
+    api_token = os.getenv("CLOVER_API_TOKEN", "2148cad7-875f-f420-714a-1b29c5af924c")
+    base_url = os.getenv("CLOVER_BASE_URL", "https://api.clover.com")
+    headers = {
+        "Authorization": f"Bearer {api_token}",
+        "Accept": "application/json"
+    }
+    try:
+        async with httpx.AsyncClient(timeout=10) as client:
+            r = await client.get(f"{base_url}/v3/merchants/{merchant_id}", headers=headers)
+            return {
+                "status_code": r.status_code,
+                "success": r.status_code == 200,
+                "merchant_id": merchant_id,
+                "response_preview": r.text[:200] if r.status_code == 200 else r.text[:200]
+            }
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 
 # ─── Static Frontend ─────────────────────────────────────────
 
