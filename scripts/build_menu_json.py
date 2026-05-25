@@ -4,8 +4,8 @@ Build AI-optimized menu JSON from Clover inventory data.
 import json
 import requests
 
-MERCHANT_ID = "MRWSQWMCDSHQ1"
-API_TOKEN = "2148cad7-875f-f420-714a-1b29c5af924c"
+MERCHANT_ID = os.getenv("CLOVER_MERCHANT_ID")
+API_TOKEN = os.getenv("CLOVER_API_KEY")
 BASE = f"https://api.clover.com/v3/merchants/{MERCHANT_ID}"
 HEADERS = {"Authorization": f"Bearer {API_TOKEN}", "Content-Type": "application/json"}
 

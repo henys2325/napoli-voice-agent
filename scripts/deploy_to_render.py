@@ -10,7 +10,7 @@ import os
 import subprocess
 import sys
 
-RENDER_API_KEY = "rnd_slggXkYx9PiIPkDaLYqayuPdTZ34"
+RENDER_API_KEY = os.getenv("RENDER_API_KEY")
 RENDER_API_BASE = "https://api.render.com/v1"
 
 headers = {

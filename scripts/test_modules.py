@@ -48,7 +48,7 @@ mock_webhook = {
     'status': 'APPROVED',
     'message': 'Approved for 2500',
     'data': session_id,
-    'merchantId': 'MRWSQWMCDSHQ1'
+    'merchantId': os.getenv('CLOVER_MERCHANT_ID')
 }
 sid = extract_session_id(mock_webhook)
 approved = is_payment_approved(mock_webhook)

@@ -6,7 +6,7 @@ import requests
 import sys
 import os
 
-VAPI_API_KEY = "53c7c8bc-9b72-410f-b4b1-606942ff77f1"
+VAPI_API_KEY = os.getenv("VAPI_PRIVATE_KEY")
 BASE_URL_PLACEHOLDER = "https://your-server-domain.com"  # se actualiza después del deploy
 
 headers = {
