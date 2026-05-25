@@ -28,6 +28,7 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from clover_service import CloverService
 from sms_service import SMSService
+from stripe_service import StripeService
 from order_store import OrderStore
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
 
@@ -53,6 +54,7 @@ app.add_middleware(
 # ─── Services ───────────────────────────────────────────────
 clover = CloverService()
 sms = SMSService()
+stripe_svc = StripeService()
 store = OrderStore()
 
 # Load menu
@@ -287,16 +289,29 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     ) * 0.03)
     checkout_items.append({"name": "Convenience Fee (3%)", "price": convenience_fee_cents, "unitQty": 1, "note": "Non-taxable"})
 
-    # Generate Clover Hosted Checkout link
-    checkout_result = await clover.create_checkout_session(
+    # Generate Stripe Payment Link
+    order_id_temp = str(uuid.uuid4())
+    checkout_result = await stripe_svc.create_payment_link(
         customer_phone=customer_phone,
         customer_name=customer_name,
         items=checkout_items,
-        tax_rate=837500  # 8.375% = 837500 in Clover format (Tax ID: 9HA8PWWHKJHNR)
+        total_cents=total_cents,
+        order_type=order_type,
+        order_id=order_id_temp,
+        language=language
     )
 
     if not checkout_result.get("success"):
-        return {"success": False, "error": f"Payment link generation failed: {checkout_result.get('error')}"}
+        # Fallback to Clover if Stripe fails
+        logger.warning(f"Stripe failed, trying Clover: {checkout_result.get('error')}")
+        checkout_result = await clover.create_checkout_session(
+            customer_phone=customer_phone,
+            customer_name=customer_name,
+            items=checkout_items,
+            tax_rate=837500
+        )
+        if not checkout_result.get("success"):
+            return {"success": False, "error": f"No se pudo generar el link de pago: {checkout_result.get('error')}"}
 
     payment_url = checkout_result["href"]
     session_id = checkout_result["checkoutSessionId"]
@@ -335,10 +350,19 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
 
     logger.info(f"Order created. Session: {session_id} | Total: ${total_data['total_usd']} | Phone: {customer_phone}")
 
+    total_fmt = f"${total_data['total_usd']:.2f}"
+    if language == "es":
+        msg = f"Link de pago enviado por SMS al {customer_phone}. Total: {total_fmt}. Tu pedido será enviado a la cocina en cuanto se confirme el pago."
+    elif language == "ru":
+        msg = f"Ссылка для оплаты отправлена на {customer_phone}. Сумма: {total_fmt}. Заказ будет отправлен на кухню после подтверждения оплаты."
+    else:
+        msg = f"Payment link sent via SMS to {customer_phone}. Total: {total_fmt}. The order will be sent to the kitchen as soon as payment is confirmed."
+
     return {
         "success": True,
-        "message": f"Payment link sent via SMS to {customer_phone}. Total: ${total_data['total_usd']:.2f}. The order will be sent to the kitchen as soon as payment is confirmed.",
+        "message": msg,
         "total_usd": total_data["total_usd"],
+        "total_formatted": total_fmt,
         "session_id": session_id
     }
 
