@@ -574,6 +574,31 @@ async def test_clover_connection():
     except Exception as e:
         return {"success": False, "error": str(e)}
 
+@app.post("/test/sms")
+async def test_sms(background_tasks: BackgroundTasks):
+    """Test endpoint: send a test SMS to verify Twilio is working."""
+    import os as _os
+    twilio_sid = _os.getenv("TWILIO_ACCOUNT_SID", "")
+    twilio_phone = _os.getenv("TWILIO_PHONE_NUMBER", "")
+    # Check if credentials are loaded
+    sid_loaded = bool(twilio_sid) and twilio_sid != "YOUR_TWILIO_ACCOUNT_SID"
+    # Try to send a test SMS
+    background_tasks.add_task(
+        sms.send_payment_link,
+        phone="7025448930",
+        customer_name="Test",
+        total_usd=19.99,
+        payment_url="https://www.clover.com/pay-checkout/test-123?mode=checkout",
+        language="es"
+    )
+    return {
+        "test": "sms",
+        "twilio_sid_loaded": sid_loaded,
+        "twilio_sid_preview": twilio_sid[:8] + "..." if twilio_sid else "NOT SET",
+        "twilio_phone": twilio_phone or "NOT SET",
+        "message": "SMS queued - check your phone in 5 seconds"
+    }
+
 # ─── Static Frontend ─────────────────────────────────────────
 
 FRONTEND_PATH = os.path.join(os.path.dirname(__file__), '..', 'frontend')
