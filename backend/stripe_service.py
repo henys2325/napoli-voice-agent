@@ -79,7 +79,7 @@ class StripeService:
                     "order_id": order_id or "",
                     "language": language,
                 },
-                expires_at=int(__import__("time").time()) + 900,  # 15 minutes
+                expires_at=int(__import__("time").time()) + 1800,  # 30 minutes (Stripe minimum)
             )
 
             logger.info(f"Stripe session created: {session.id} | URL: {session.url}")
