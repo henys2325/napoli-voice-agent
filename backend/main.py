@@ -12,6 +12,8 @@ import os
 import json
 import uuid
 import logging
+import asyncio
+from contextlib import asynccontextmanager
 from datetime import datetime, timezone
 from typing import Optional, List, Dict, Any
 
@@ -36,11 +38,39 @@ from email_service import send_new_order_alert, send_order_to_kitchen_alert
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 logger = logging.getLogger(__name__)
 
+# ─── Keep-Alive (prevents Render free tier cold starts) ──────
+async def _keep_alive_loop():
+    """Ping self every 4 minutes to prevent Render from sleeping the instance."""
+    import httpx
+    port = int(os.getenv("APP_PORT", 8000))
+    url = f"http://localhost:{port}/health"
+    await asyncio.sleep(60)  # Wait for server to fully start
+    while True:
+        try:
+            async with httpx.AsyncClient(timeout=5) as client:
+                await client.get(url)
+            logger.debug("Keep-alive ping OK")
+        except Exception as e:
+            logger.debug(f"Keep-alive ping failed: {e}")
+        await asyncio.sleep(240)  # Every 4 minutes
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    task = asyncio.create_task(_keep_alive_loop())
+    logger.info("Keep-alive background task started (interval: 4 min)")
+    yield
+    task.cancel()
+    try:
+        await task
+    except asyncio.CancelledError:
+        pass
+
 # ─── App Init ───────────────────────────────────────────────
 app = FastAPI(
     title="Napoli Pizzeria Voice AI Agent",
     description="Backend for AI phone ordering system",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 app.add_middleware(
