@@ -211,9 +211,12 @@ async def tool_calculate_total(args: dict) -> dict:
     subtotal = 0
     line_items = []
     for item in items:
-        # Accept both unit_price_cents (int cents) and price (float dollars) from Vapi
+        # Accept unit_price_cents (int cents), unit_price (float dollars), or price (float dollars) from Vapi
         if "unit_price_cents" in item:
             item_price = int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
         elif "price" in item:
             raw = float(item["price"])
             item_price = int(raw * 100) if raw < 1000 else int(raw)
@@ -275,9 +278,12 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     # Build checkout line items
     checkout_items = []
     for item in items:
-        # Accept both unit_price_cents (int cents) and price (float dollars) from Vapi
+        # Accept unit_price_cents (int cents), unit_price (float dollars), or price (float dollars) from Vapi
         if "unit_price_cents" in item:
             item_price = int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
         elif "price" in item:
             raw = float(item["price"])
             item_price = int(raw * 100) if raw < 1000 else int(raw)
@@ -304,6 +310,9 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     def _item_price_cents(item):
         if "unit_price_cents" in item:
             return int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            return int(raw * 100) if raw < 1000 else int(raw)
         elif "price" in item:
             raw = float(item["price"])
             return int(raw * 100) if raw < 1000 else int(raw)
