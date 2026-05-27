@@ -1,5 +1,5 @@
 """
-SMS Ordering Bot — Napoli Pizzeria
+SMS Ordering Bot EVA — Napoli Pizzeria
 Handles inbound SMS messages from customers.
 
 Conversation flow (Opción C — Combined):
@@ -102,7 +102,7 @@ def _build_greeting(lang: str) -> str:
     """Build the initial greeting message with menu link."""
     if lang == "es":
         return (
-            f"¡Hola! 🍕 Bienvenido a {RESTAURANT_NAME}.\n\n"
+            f"¡Hola! Soy EVA 🍕 Bienvenido a {RESTAURANT_NAME}.\n\n"
             f"📋 Ver menú completo y ordenar en línea:\n{MENU_LINK}\n\n"
             f"O escríbeme tu pedido aquí y te envío un link de pago.\n"
             f"Ejemplo: \"1 pizza pepperoni grande y 2 sodas\"\n\n"
@@ -110,7 +110,7 @@ def _build_greeting(lang: str) -> str:
         )
     elif lang == "ru":
         return (
-            f"Привет! 🍕 Добро пожаловать в {RESTAURANT_NAME}.\n\n"
+            f"Привет! Я EVA 🍕 Добро пожаловать в {RESTAURANT_NAME}.\n\n"
             f"📋 Полное меню и онлайн-заказ:\n{MENU_LINK}\n\n"
             f"Или напишите ваш заказ здесь, и я пришлю ссылку для оплаты.\n"
             f"Пример: \"1 большая пицца пепперони и 2 содовых\"\n\n"
@@ -118,7 +118,7 @@ def _build_greeting(lang: str) -> str:
         )
     else:
         return (
-            f"Hi! 🍕 Welcome to {RESTAURANT_NAME}.\n\n"
+            f"Hi! I'm EVA 🍕 Welcome to {RESTAURANT_NAME}.\n\n"
             f"📋 View full menu & order online:\n{MENU_LINK}\n\n"
             f"Or text me your order and I'll send you a payment link!\n"
             f"Example: \"1 large pepperoni pizza and 2 sodas\"\n\n"
