@@ -12,6 +12,8 @@ import os
 import json
 import uuid
 import logging
+import asyncio
+from contextlib import asynccontextmanager
 from datetime import datetime, timezone
 from typing import Optional, List, Dict, Any
 
@@ -28,18 +30,48 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 from clover_service import CloverService
 from sms_service import SMSService
+from stripe_service import StripeService
 from order_store import OrderStore
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
+from sms_bot import handle_inbound_sms
 
 # ─── Logging ────────────────────────────────────────────────
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 logger = logging.getLogger(__name__)
 
+# ─── Keep-Alive (prevents Render free tier cold starts) ──────
+async def _keep_alive_loop():
+    """Ping self every 4 minutes to prevent Render from sleeping the instance."""
+    import httpx
+    port = int(os.getenv("APP_PORT", 8000))
+    url = f"http://localhost:{port}/health"
+    await asyncio.sleep(60)  # Wait for server to fully start
+    while True:
+        try:
+            async with httpx.AsyncClient(timeout=5) as client:
+                await client.get(url)
+            logger.debug("Keep-alive ping OK")
+        except Exception as e:
+            logger.debug(f"Keep-alive ping failed: {e}")
+        await asyncio.sleep(240)  # Every 4 minutes
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    task = asyncio.create_task(_keep_alive_loop())
+    logger.info("Keep-alive background task started (interval: 4 min)")
+    yield
+    task.cancel()
+    try:
+        await task
+    except asyncio.CancelledError:
+        pass
+
 # ─── App Init ───────────────────────────────────────────────
 app = FastAPI(
     title="Napoli Pizzeria Voice AI Agent",
     description="Backend for AI phone ordering system",
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 app.add_middleware(
@@ -53,6 +85,7 @@ app.add_middleware(
 # ─── Services ───────────────────────────────────────────────
 clover = CloverService()
 sms = SMSService()
+stripe_svc = StripeService()
 store = OrderStore()
 
 # Load menu
@@ -209,13 +242,25 @@ async def tool_calculate_total(args: dict) -> dict:
     subtotal = 0
     line_items = []
     for item in items:
-        item_price = item.get("unit_price_cents", 0)
+        # Accept unit_price_cents (int cents), unit_price (float dollars), or price (float dollars) from Vapi
+        if "unit_price_cents" in item:
+            item_price = int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        elif "price" in item:
+            raw = float(item["price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        else:
+            item_price = 0
         mod_total = sum(item.get("modifier_prices_cents", []))
         qty = item.get("quantity", 1)
         line_total = (item_price + mod_total) * qty
         subtotal += line_total
+        # Accept both item_name and name
+        display_name = item.get("item_name") or item.get("name", "Item")
         line_items.append({
-            "name": item.get("item_name", "Item"),
+            "name": display_name,
             "quantity": qty,
             "unit_price_usd": round(item_price / 100, 2),
             "modifiers_usd": round(mod_total / 100, 2),
@@ -261,17 +306,29 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     total_data = await tool_calculate_total({"items": items, "order_type": order_type})
     total_cents = total_data["total_cents"]
 
-    # Build Clover line items for Hosted Checkout
+    # Build checkout line items
     checkout_items = []
     for item in items:
-        item_price = item.get("unit_price_cents", 0)
+        # Accept unit_price_cents (int cents), unit_price (float dollars), or price (float dollars) from Vapi
+        if "unit_price_cents" in item:
+            item_price = int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        elif "price" in item:
+            raw = float(item["price"])
+            item_price = int(raw * 100) if raw < 1000 else int(raw)
+        else:
+            item_price = 0
         mod_total = sum(item.get("modifier_prices_cents", []))
         mod_names = ", ".join(item.get("modifier_names", []))
         note = item.get("special_instructions", "")
         if mod_names:
             note = f"{mod_names}. {note}".strip(". ")
+        # Accept both item_name and name
+        display_name = item.get("item_name") or item.get("name", "Item")
         checkout_items.append({
-            "name": item.get("item_name", "Item"),
+            "name": display_name,
             "price": item_price + mod_total,
             "unitQty": item.get("quantity", 1),
             "note": note[:100] if note else ""
@@ -281,22 +338,45 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     if order_type == "delivery":
         checkout_items.append({"name": "Delivery Fee", "price": 199, "unitQty": 1, "note": ""})
     # 3% Convenience Fee (not taxable — added as separate line item with no taxRates)
+    def _item_price_cents(item):
+        if "unit_price_cents" in item:
+            return int(item["unit_price_cents"])
+        elif "unit_price" in item:
+            raw = float(item["unit_price"])
+            return int(raw * 100) if raw < 1000 else int(raw)
+        elif "price" in item:
+            raw = float(item["price"])
+            return int(raw * 100) if raw < 1000 else int(raw)
+        return 0
     convenience_fee_cents = int(sum(
-        (item.get("unit_price_cents", 0) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
+        (_item_price_cents(item) + sum(item.get("modifier_prices_cents", []))) * item.get("quantity", 1)
         for item in items
     ) * 0.03)
     checkout_items.append({"name": "Convenience Fee (3%)", "price": convenience_fee_cents, "unitQty": 1, "note": "Non-taxable"})
 
-    # Generate Clover Hosted Checkout link
-    checkout_result = await clover.create_checkout_session(
+    # Generate Stripe Payment Link
+    order_id_temp = str(uuid.uuid4())
+    checkout_result = await stripe_svc.create_payment_link(
         customer_phone=customer_phone,
         customer_name=customer_name,
         items=checkout_items,
-        tax_rate=837500  # 8.375% = 837500 in Clover format (Tax ID: 9HA8PWWHKJHNR)
+        total_cents=total_cents,
+        order_type=order_type,
+        order_id=order_id_temp,
+        language=language
     )
 
     if not checkout_result.get("success"):
-        return {"success": False, "error": f"Payment link generation failed: {checkout_result.get('error')}"}
+        # Fallback to Clover if Stripe fails
+        logger.warning(f"Stripe failed, trying Clover: {checkout_result.get('error')}")
+        checkout_result = await clover.create_checkout_session(
+            customer_phone=customer_phone,
+            customer_name=customer_name,
+            items=checkout_items,
+            tax_rate=837500
+        )
+        if not checkout_result.get("success"):
+            return {"success": False, "error": f"No se pudo generar el link de pago: {checkout_result.get('error')}"}
 
     payment_url = checkout_result["href"]
     session_id = checkout_result["checkoutSessionId"]
@@ -335,10 +415,19 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
 
     logger.info(f"Order created. Session: {session_id} | Total: ${total_data['total_usd']} | Phone: {customer_phone}")
 
+    total_fmt = f"${total_data['total_usd']:.2f}"
+    if language == "es":
+        msg = f"Link de pago enviado por SMS al {customer_phone}. Total: {total_fmt}. Tu pedido será enviado a la cocina en cuanto se confirme el pago."
+    elif language == "ru":
+        msg = f"Ссылка для оплаты отправлена на {customer_phone}. Сумма: {total_fmt}. Заказ будет отправлен на кухню после подтверждения оплаты."
+    else:
+        msg = f"Payment link sent via SMS to {customer_phone}. Total: {total_fmt}. The order will be sent to the kitchen as soon as payment is confirmed."
+
     return {
         "success": True,
-        "message": f"Payment link sent via SMS to {customer_phone}. Total: ${total_data['total_usd']:.2f}. The order will be sent to the kitchen as soon as payment is confirmed.",
+        "message": msg,
         "total_usd": total_data["total_usd"],
+        "total_formatted": total_fmt,
         "session_id": session_id
     }
 
@@ -573,6 +662,76 @@ async def test_clover_connection():
             }
     except Exception as e:
         return {"success": False, "error": str(e)}
+
+@app.post("/webhook/sms")
+async def inbound_sms(request: Request, background_tasks: BackgroundTasks):
+    """
+    Twilio webhook for inbound SMS messages.
+    Twilio sends a POST with form data: From, Body, To, etc.
+    We respond with TwiML XML to send a reply.
+    """
+    from fastapi.responses import Response
+    try:
+        form = await request.form()
+        from_phone = form.get("From", "")
+        body = form.get("Body", "").strip()
+        logger.info(f"Inbound SMS from {from_phone}: '{body[:80]}'")
+
+        if not from_phone or not body:
+            return Response(
+                content='<?xml version="1.0" encoding="UTF-8"?><Response></Response>',
+                media_type="application/xml"
+            )
+
+        # Process the message
+        reply = await handle_inbound_sms(
+            from_phone=from_phone,
+            body=body,
+            menu=MENU,
+            stripe_svc=stripe_svc,
+            sms_svc=sms,
+            store=store,
+            background_tasks=background_tasks
+        )
+
+        # Return TwiML response
+        # Escape XML special characters
+        reply_escaped = reply.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        twiml = f'<?xml version="1.0" encoding="UTF-8"?><Response><Message>{reply_escaped}</Message></Response>'
+        return Response(content=twiml, media_type="application/xml")
+
+    except Exception as e:
+        logger.error(f"Inbound SMS webhook error: {e}")
+        return Response(
+            content='<?xml version="1.0" encoding="UTF-8"?><Response><Message>Sorry, there was an error. Please call 725-204-0379.</Message></Response>',
+            media_type="application/xml"
+        )
+
+
+@app.post("/test/sms")
+async def test_sms(background_tasks: BackgroundTasks):
+    """Test endpoint: send a test SMS to verify Twilio is working."""
+    import os as _os
+    twilio_sid = _os.getenv("TWILIO_ACCOUNT_SID", "")
+    twilio_phone = _os.getenv("TWILIO_PHONE_NUMBER", "")
+    # Check if credentials are loaded
+    sid_loaded = bool(twilio_sid) and twilio_sid != "YOUR_TWILIO_ACCOUNT_SID"
+    # Try to send a test SMS
+    background_tasks.add_task(
+        sms.send_payment_link,
+        phone="7025448930",
+        customer_name="Test",
+        total_usd=19.99,
+        payment_url="https://www.clover.com/pay-checkout/test-123?mode=checkout",
+        language="es"
+    )
+    return {
+        "test": "sms",
+        "twilio_sid_loaded": sid_loaded,
+        "twilio_sid_preview": twilio_sid[:8] + "..." if twilio_sid else "NOT SET",
+        "twilio_phone": twilio_phone or "NOT SET",
+        "message": "SMS queued - check your phone in 5 seconds"
+    }
 
 # ─── Static Frontend ─────────────────────────────────────────
 
