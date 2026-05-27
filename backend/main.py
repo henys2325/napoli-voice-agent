@@ -33,6 +33,7 @@ from sms_service import SMSService
 from stripe_service import StripeService
 from order_store import OrderStore
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
+from sms_bot import handle_inbound_sms
 
 # ─── Logging ────────────────────────────────────────────────
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
@@ -661,6 +662,51 @@ async def test_clover_connection():
             }
     except Exception as e:
         return {"success": False, "error": str(e)}
+
+@app.post("/webhook/sms")
+async def inbound_sms(request: Request, background_tasks: BackgroundTasks):
+    """
+    Twilio webhook for inbound SMS messages.
+    Twilio sends a POST with form data: From, Body, To, etc.
+    We respond with TwiML XML to send a reply.
+    """
+    from fastapi.responses import Response
+    try:
+        form = await request.form()
+        from_phone = form.get("From", "")
+        body = form.get("Body", "").strip()
+        logger.info(f"Inbound SMS from {from_phone}: '{body[:80]}'")
+
+        if not from_phone or not body:
+            return Response(
+                content='<?xml version="1.0" encoding="UTF-8"?><Response></Response>',
+                media_type="application/xml"
+            )
+
+        # Process the message
+        reply = await handle_inbound_sms(
+            from_phone=from_phone,
+            body=body,
+            menu=MENU,
+            stripe_svc=stripe_svc,
+            sms_svc=sms,
+            store=store,
+            background_tasks=background_tasks
+        )
+
+        # Return TwiML response
+        # Escape XML special characters
+        reply_escaped = reply.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        twiml = f'<?xml version="1.0" encoding="UTF-8"?><Response><Message>{reply_escaped}</Message></Response>'
+        return Response(content=twiml, media_type="application/xml")
+
+    except Exception as e:
+        logger.error(f"Inbound SMS webhook error: {e}")
+        return Response(
+            content='<?xml version="1.0" encoding="UTF-8"?><Response><Message>Sorry, there was an error. Please call 725-204-0379.</Message></Response>',
+            media_type="application/xml"
+        )
+
 
 @app.post("/test/sms")
 async def test_sms(background_tasks: BackgroundTasks):
