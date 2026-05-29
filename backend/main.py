@@ -200,7 +200,7 @@ async def handle_vapi_tool_call(request: Request, background_tasks: BackgroundTa
 # ─── Tool Implementations ───────────────────────────────────
 
 async def tool_search_menu_item(args: dict) -> dict:
-    """Search for a menu item by name and return its ID and price."""
+    """Search for a menu item by name and return its price."""
     query = args.get("query", "").lower()
     category_hint = args.get("category", "").lower()
     matches = []
@@ -208,26 +208,32 @@ async def tool_search_menu_item(args: dict) -> dict:
     for cat_name, cat_data in MENU["categories"].items():
         if category_hint and category_hint not in cat_name.lower():
             continue
-        for item in cat_data["items"]:
-            if query in item["name"].lower():
-                # Get modifier groups
-                mods = []
-                for mg_id in item.get("modifier_group_ids", []):
-                    if mg_id in MENU["modifier_groups"]:
-                        mg = MENU["modifier_groups"][mg_id]
-                        mods.append({
-                            "group_id": mg_id,
-                            "group_name": mg["name"],
-                            "required": mg["min_required"] > 0,
-                            "options": mg["options"][:20]
-                        })
-                matches.append({
-                    "id": item["id"],
-                    "name": item["name"],
-                    "price_usd": item["price_usd"],
-                    "category": cat_name,
-                    "modifier_groups": mods
-                })
+        # Support both list items and specialty_pizzas sub-list
+        item_lists = [cat_data.get("items", [])]
+        if "specialty_pizzas" in cat_data:
+            item_lists.append(cat_data["specialty_pizzas"])
+        for item_list in item_lists:
+            for item in item_list:
+                if query in item["name"].lower():
+                    matches.append({
+                        "name": item["name"],
+                        "price_usd": item.get("price_usd", 0.0),
+                        "description": item.get("description", ""),
+                        "category": cat_name
+                    })
+
+    if not matches:
+        # Try partial word match
+        words = query.split()
+        for cat_name, cat_data in MENU["categories"].items():
+            for item in cat_data.get("items", []):
+                if any(w in item["name"].lower() for w in words if len(w) > 3):
+                    matches.append({
+                        "name": item["name"],
+                        "price_usd": item.get("price_usd", 0.0),
+                        "description": item.get("description", ""),
+                        "category": cat_name
+                    })
 
     if not matches:
         return {"found": False, "message": f"No items found matching '{query}'"}
