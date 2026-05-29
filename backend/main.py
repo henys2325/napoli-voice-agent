@@ -32,6 +32,7 @@ from clover_service import CloverService
 from sms_service import SMSService
 from stripe_service import StripeService
 from order_store import OrderStore
+from knowledge_store import KnowledgeStore
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
 from sms_bot import handle_inbound_sms
 
@@ -87,6 +88,7 @@ clover = CloverService()
 sms = SMSService()
 stripe_svc = StripeService()
 store = OrderStore()
+knowledge = KnowledgeStore()
 
 # Load menu
 MENU_PATH = os.path.join(os.path.dirname(__file__), '..', 'config', 'menu.json')
@@ -763,6 +765,71 @@ async def test_sms(background_tasks: BackgroundTasks):
     }
 
 # ─── Static Frontend ─────────────────────────────────────────
+
+
+# ─── Knowledge Base API ──────────────────────────────────────
+
+class KnowledgeEntry(BaseModel):
+    title: str
+    content: str
+    category: str = "Other"
+
+class KnowledgeUpdate(BaseModel):
+    title: Optional[str] = None
+    content: Optional[str] = None
+    category: Optional[str] = None
+    active: Optional[bool] = None
+
+@app.get("/api/knowledge")
+async def get_knowledge(category: Optional[str] = None, active_only: bool = False):
+    """Get all knowledge entries for the Eva dashboard."""
+    entries = knowledge.get_all_entries(category=category, active_only=active_only)
+    stats = knowledge.get_stats()
+    return {"entries": entries, "count": len(entries), "stats": stats}
+
+@app.post("/api/knowledge")
+async def add_knowledge(entry: KnowledgeEntry):
+    """Add a new knowledge entry."""
+    result = knowledge.add_entry(
+        title=entry.title,
+        content=entry.content,
+        category=entry.category
+    )
+    return result
+
+@app.put("/api/knowledge/{entry_id}")
+async def update_knowledge(entry_id: int, update: KnowledgeUpdate):
+    """Update an existing knowledge entry."""
+    result = knowledge.update_entry(
+        entry_id=entry_id,
+        title=update.title,
+        content=update.content,
+        category=update.category,
+        active=update.active
+    )
+    if not result:
+        raise HTTPException(status_code=404, detail="Entry not found")
+    return result
+
+@app.delete("/api/knowledge/{entry_id}")
+async def delete_knowledge(entry_id: int):
+    """Delete a knowledge entry."""
+    success = knowledge.delete_entry(entry_id)
+    if not success:
+        raise HTTPException(status_code=404, detail="Entry not found")
+    return {"deleted": True, "id": entry_id}
+
+@app.get("/api/knowledge/export")
+async def export_knowledge_text():
+    """Export all active knowledge as formatted text (for Eva's prompt injection)."""
+    text = knowledge.get_active_knowledge_text()
+    return {"text": text, "char_count": len(text)}
+
+@app.get("/api/knowledge/categories")
+async def get_knowledge_categories():
+    """Get available knowledge categories."""
+    from knowledge_store import CATEGORIES
+    return {"categories": CATEGORIES}
 
 FRONTEND_PATH = os.path.join(os.path.dirname(__file__), '..', 'frontend')
 if os.path.exists(FRONTEND_PATH):
