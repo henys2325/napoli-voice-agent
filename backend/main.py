@@ -616,6 +616,29 @@ async def get_order(order_id: str):
 async def get_stats():
     return store.get_stats()
 
+# ─── Dashboard API Endpoints ───────────────────────────────
+
+@app.get("/api/calls")
+async def get_calls(limit: int = 100):
+    """Proxy Vapi call logs for the Eva dashboard."""
+    import httpx
+    vapi_key = os.getenv("VAPI_API_KEY", "")
+    agent_id = os.getenv("VAPI_ASSISTANT_ID", "1350377e-c62e-41e7-85c8-e7ee3254461e")
+    if not vapi_key:
+        raise HTTPException(status_code=500, detail="VAPI_API_KEY not configured")
+    try:
+        async with httpx.AsyncClient(timeout=20.0) as client:
+            r = await client.get(
+                f"https://api.vapi.ai/call?assistantId={agent_id}&limit={limit}",
+                headers={"Authorization": f"Bearer {vapi_key}"}
+            )
+            r.raise_for_status()
+            calls = r.json()
+            return {"calls": calls, "count": len(calls)}
+    except Exception as e:
+        logger.error(f"Failed to fetch Vapi calls: {e}")
+        raise HTTPException(status_code=502, detail=str(e))
+
 # ─── Test Endpoints ─────────────────────────────────────────
 
 @app.post("/test/kitchen-print")
