@@ -32,6 +32,7 @@ from clover_service import CloverService
 from sms_service import SMSService
 from stripe_service import StripeService
 from order_store import OrderStore
+from knowledge_store import KnowledgeStore
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
 from sms_bot import handle_inbound_sms
 
@@ -87,6 +88,7 @@ clover = CloverService()
 sms = SMSService()
 stripe_svc = StripeService()
 store = OrderStore()
+knowledge = KnowledgeStore()
 
 # Load menu
 MENU_PATH = os.path.join(os.path.dirname(__file__), '..', 'config', 'menu.json')
@@ -200,7 +202,7 @@ async def handle_vapi_tool_call(request: Request, background_tasks: BackgroundTa
 # ─── Tool Implementations ───────────────────────────────────
 
 async def tool_search_menu_item(args: dict) -> dict:
-    """Search for a menu item by name and return its ID and price."""
+    """Search for a menu item by name and return its price."""
     query = args.get("query", "").lower()
     category_hint = args.get("category", "").lower()
     matches = []
@@ -208,26 +210,32 @@ async def tool_search_menu_item(args: dict) -> dict:
     for cat_name, cat_data in MENU["categories"].items():
         if category_hint and category_hint not in cat_name.lower():
             continue
-        for item in cat_data["items"]:
-            if query in item["name"].lower():
-                # Get modifier groups
-                mods = []
-                for mg_id in item.get("modifier_group_ids", []):
-                    if mg_id in MENU["modifier_groups"]:
-                        mg = MENU["modifier_groups"][mg_id]
-                        mods.append({
-                            "group_id": mg_id,
-                            "group_name": mg["name"],
-                            "required": mg["min_required"] > 0,
-                            "options": mg["options"][:20]
-                        })
-                matches.append({
-                    "id": item["id"],
-                    "name": item["name"],
-                    "price_usd": item["price_usd"],
-                    "category": cat_name,
-                    "modifier_groups": mods
-                })
+        # Support both list items and specialty_pizzas sub-list
+        item_lists = [cat_data.get("items", [])]
+        if "specialty_pizzas" in cat_data:
+            item_lists.append(cat_data["specialty_pizzas"])
+        for item_list in item_lists:
+            for item in item_list:
+                if query in item["name"].lower():
+                    matches.append({
+                        "name": item["name"],
+                        "price_usd": item.get("price_usd", 0.0),
+                        "description": item.get("description", ""),
+                        "category": cat_name
+                    })
+
+    if not matches:
+        # Try partial word match
+        words = query.split()
+        for cat_name, cat_data in MENU["categories"].items():
+            for item in cat_data.get("items", []):
+                if any(w in item["name"].lower() for w in words if len(w) > 3):
+                    matches.append({
+                        "name": item["name"],
+                        "price_usd": item.get("price_usd", 0.0),
+                        "description": item.get("description", ""),
+                        "category": cat_name
+                    })
 
     if not matches:
         return {"found": False, "message": f"No items found matching '{query}'"}
@@ -287,6 +295,7 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     """
     Submit the order: create pending record, generate payment link, send SMS.
     Does NOT push to Clover yet — that happens after payment confirmation.
+    Auto-detects caller phone from Vapi call context if not provided by the agent.
     """
     customer_phone = args.get("customer_phone", "")
     customer_name = args.get("customer_name", "Customer")
@@ -296,8 +305,18 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     language = args.get("language", "en")
     call_id = message.get("call", {}).get("id", str(uuid.uuid4()))
 
+    # Auto-detect caller number from Vapi call context if agent didn't pass it
     if not customer_phone:
-        return {"success": False, "error": "Customer phone number is required to send payment link."}
+        caller_number = (
+            message.get("call", {}).get("customer", {}).get("number", "") or
+            message.get("customer", {}).get("number", "") or
+            message.get("call", {}).get("phoneNumber", {}).get("number", "")
+        )
+        if caller_number:
+            customer_phone = caller_number
+            logger.info(f"Auto-detected caller phone from Vapi context: {caller_number}")
+        else:
+            return {"success": False, "error": "Customer phone number is required to send payment link."}
 
     if not items:
         return {"success": False, "error": "No items in the order."}
@@ -610,6 +629,29 @@ async def get_order(order_id: str):
 async def get_stats():
     return store.get_stats()
 
+# ─── Dashboard API Endpoints ───────────────────────────────
+
+@app.get("/api/calls")
+async def get_calls(limit: int = 100):
+    """Proxy Vapi call logs for the Eva dashboard."""
+    import httpx
+    vapi_key = os.getenv("VAPI_API_KEY", "")
+    agent_id = os.getenv("VAPI_ASSISTANT_ID", "1350377e-c62e-41e7-85c8-e7ee3254461e")
+    if not vapi_key:
+        raise HTTPException(status_code=500, detail="VAPI_API_KEY not configured")
+    try:
+        async with httpx.AsyncClient(timeout=20.0) as client:
+            r = await client.get(
+                f"https://api.vapi.ai/call?assistantId={agent_id}&limit={limit}",
+                headers={"Authorization": f"Bearer {vapi_key}"}
+            )
+            r.raise_for_status()
+            calls = r.json()
+            return {"calls": calls, "count": len(calls)}
+    except Exception as e:
+        logger.error(f"Failed to fetch Vapi calls: {e}")
+        raise HTTPException(status_code=502, detail=str(e))
+
 # ─── Test Endpoints ─────────────────────────────────────────
 
 @app.post("/test/kitchen-print")
@@ -734,6 +776,71 @@ async def test_sms(background_tasks: BackgroundTasks):
     }
 
 # ─── Static Frontend ─────────────────────────────────────────
+
+
+# ─── Knowledge Base API ──────────────────────────────────────
+
+class KnowledgeEntry(BaseModel):
+    title: str
+    content: str
+    category: str = "Other"
+
+class KnowledgeUpdate(BaseModel):
+    title: Optional[str] = None
+    content: Optional[str] = None
+    category: Optional[str] = None
+    active: Optional[bool] = None
+
+@app.get("/api/knowledge")
+async def get_knowledge(category: Optional[str] = None, active_only: bool = False):
+    """Get all knowledge entries for the Eva dashboard."""
+    entries = knowledge.get_all_entries(category=category, active_only=active_only)
+    stats = knowledge.get_stats()
+    return {"entries": entries, "count": len(entries), "stats": stats}
+
+@app.post("/api/knowledge")
+async def add_knowledge(entry: KnowledgeEntry):
+    """Add a new knowledge entry."""
+    result = knowledge.add_entry(
+        title=entry.title,
+        content=entry.content,
+        category=entry.category
+    )
+    return result
+
+@app.put("/api/knowledge/{entry_id}")
+async def update_knowledge(entry_id: int, update: KnowledgeUpdate):
+    """Update an existing knowledge entry."""
+    result = knowledge.update_entry(
+        entry_id=entry_id,
+        title=update.title,
+        content=update.content,
+        category=update.category,
+        active=update.active
+    )
+    if not result:
+        raise HTTPException(status_code=404, detail="Entry not found")
+    return result
+
+@app.delete("/api/knowledge/{entry_id}")
+async def delete_knowledge(entry_id: int):
+    """Delete a knowledge entry."""
+    success = knowledge.delete_entry(entry_id)
+    if not success:
+        raise HTTPException(status_code=404, detail="Entry not found")
+    return {"deleted": True, "id": entry_id}
+
+@app.get("/api/knowledge/export")
+async def export_knowledge_text():
+    """Export all active knowledge as formatted text (for Eva's prompt injection)."""
+    text = knowledge.get_active_knowledge_text()
+    return {"text": text, "char_count": len(text)}
+
+@app.get("/api/knowledge/categories")
+async def get_knowledge_categories():
+    """Get available knowledge categories."""
+    from knowledge_store import CATEGORIES
+    return {"categories": CATEGORIES}
 
 FRONTEND_PATH = os.path.join(os.path.dirname(__file__), '..', 'frontend')
 if os.path.exists(FRONTEND_PATH):
