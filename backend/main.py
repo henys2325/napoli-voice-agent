@@ -33,6 +33,7 @@ from sms_service import SMSService
 from stripe_service import StripeService
 from order_store import OrderStore
 from knowledge_store import KnowledgeStore
+from authnet_service import AuthNetService
 from email_service import send_new_order_alert, send_order_to_kitchen_alert
 from sms_bot import handle_inbound_sms
 
@@ -89,6 +90,7 @@ sms = SMSService()
 stripe_svc = StripeService()
 store = OrderStore()
 knowledge = KnowledgeStore()
+authnet = AuthNetService()
 
 # Load menu
 MENU_PATH = os.path.join(os.path.dirname(__file__), '..', 'config', 'menu.json')
@@ -186,6 +188,8 @@ async def handle_vapi_tool_call(request: Request, background_tasks: BackgroundTa
                 result = await tool_check_payment(args)
             elif tool_name == "get_restaurant_info":
                 result = await tool_restaurant_info(args)
+            elif tool_name == "charge_card_dtmf":
+                result = await tool_charge_card_dtmf(args, message, background_tasks)
             else:
                 result = {"error": f"Unknown tool: {tool_name}"}
         except Exception as e:
@@ -487,6 +491,148 @@ async def tool_restaurant_info(args: dict) -> dict:
         "lunch_specials_hours": info["lunch_specials_hours"],
         "services": ["Delivery", "Dine-In", "Pick Up", "Catering"]
     }
+
+async def tool_charge_card_dtmf(args: dict, message: dict, background_tasks: BackgroundTasks) -> dict:
+    """
+    Charge a card directly via Authorize.net using card data collected via DTMF keypad.
+    Called by Eva after customer enters card number, expiry, and CVV on their phone keypad.
+    On success, immediately pushes the order to Clover kitchen.
+    """
+    card_number = args.get("card_number", "").replace(" ", "").replace("-", "")
+    expiry_month = args.get("expiry_month", "")  # MM
+    expiry_year = args.get("expiry_year", "")    # YY or YYYY
+    cvv = args.get("cvv", "")
+    customer_name = args.get("customer_name", "Customer")
+    customer_phone = args.get("customer_phone", "")
+    order_type = args.get("order_type", "pickup")
+    delivery_address = args.get("delivery_address", "")
+    items = args.get("items", [])
+    language = args.get("language", "en")
+    call_id = message.get("call", {}).get("id", str(uuid.uuid4()))
+
+    # Auto-detect caller number if not provided
+    if not customer_phone:
+        customer_phone = (
+            message.get("call", {}).get("customer", {}).get("number", "") or
+            message.get("customer", {}).get("number", "") or ""
+        )
+
+    # Validate required card fields
+    if not card_number or len(card_number) < 13:
+        return {"success": False, "error": "Invalid card number. Please try again."}
+    if not expiry_month or not expiry_year:
+        return {"success": False, "error": "Expiration date is required."}
+    if not cvv:
+        return {"success": False, "error": "CVV is required."}
+    if not items:
+        return {"success": False, "error": "No items in the order."}
+
+    # Calculate total
+    total_data = await tool_calculate_total({"items": items, "order_type": order_type})
+    total_usd = total_data["total_usd"]
+    total_fmt = f"${total_usd:.2f}"
+    invoice_number = f"NAPOLI-{uuid.uuid4().hex[:8].upper()}"
+
+    # Build order description
+    item_names = ", ".join(
+        (i.get("item_name") or i.get("name", "Item")) for i in items[:3]
+    )
+    description = f"Napoli Pizzeria {order_type.title()} Order: {item_names}"
+
+    # Charge the card via Authorize.net
+    charge_result = await authnet.charge_card(
+        amount_usd=total_usd,
+        card_number=card_number,
+        expiry_month=expiry_month,
+        expiry_year=expiry_year,
+        cvv=cvv,
+        customer_name=customer_name,
+        customer_phone=customer_phone,
+        order_description=description,
+        invoice_number=invoice_number
+    )
+
+    if not charge_result.get("success"):
+        err = charge_result.get("error", "Card declined")
+        logger.warning(f"Authorize.net charge failed: {err}")
+        if language == "es":
+            return {"success": False, "error": f"El pago fue rechazado: {err}. Por favor verifica los datos de tu tarjeta."}
+        elif language == "ru":
+            return {"success": False, "error": f"Платёж отклонён: {err}. Пожалуйста, проверьте данные карты."}
+        else:
+            return {"success": False, "error": f"Payment declined: {err}. Please check your card details."}
+
+    # Payment approved — save order record
+    transaction_id = charge_result.get("transaction_id", "")
+    auth_code = charge_result.get("auth_code", "")
+    order_record = {
+        "order_id": invoice_number,
+        "call_id": call_id,
+        "session_id": transaction_id,
+        "status": "paid",
+        "payment_method": "authnet_dtmf",
+        "transaction_id": transaction_id,
+        "auth_code": auth_code,
+        "customer_phone": customer_phone,
+        "customer_name": customer_name,
+        "order_type": order_type,
+        "delivery_address": delivery_address,
+        "items": items,
+        "total_cents": total_data["total_cents"],
+        "total_usd": total_usd,
+        "language": language,
+        "created_at": datetime.now(timezone.utc).isoformat()
+    }
+    store.save_order(transaction_id, order_record)
+
+    # Push to Clover kitchen immediately (payment already confirmed)
+    background_tasks.add_task(
+        _push_order_to_clover,
+        order_record=order_record
+    )
+
+    # Notify manager
+    background_tasks.add_task(send_new_order_alert, order_record)
+
+    logger.info(f"Authorize.net DTMF payment approved | TxID: {transaction_id} | Total: ${total_usd} | Phone: {customer_phone}")
+
+    if language == "es":
+        msg = f"¡Pago aprobado! Tu pedido de {total_fmt} ha sido enviado a la cocina. Código de autorización: {auth_code}."
+    elif language == "ru":
+        msg = f"Оплата подтверждена! Ваш заказ на {total_fmt} отправлен на кухню. Код авторизации: {auth_code}."
+    else:
+        msg = f"Payment approved! Your order of {total_fmt} has been sent to the kitchen. Authorization code: {auth_code}."
+
+    return {
+        "success": True,
+        "message": msg,
+        "transaction_id": transaction_id,
+        "auth_code": auth_code,
+        "total_usd": total_usd,
+        "total_formatted": total_fmt
+    }
+
+
+async def _push_order_to_clover(order_record: dict):
+    """Background task: push a paid order to Clover kitchen."""
+    try:
+        clover_result = await clover.create_order(
+            items=order_record["items"],
+            order_type=order_record["order_type"],
+            customer_name=order_record["customer_name"],
+            customer_phone=order_record["customer_phone"],
+            delivery_address=order_record.get("delivery_address", ""),
+            special_instructions=""
+        )
+        if clover_result.get("success"):
+            logger.info(f"Order pushed to Clover kitchen: {clover_result.get('order_id')}")
+            order_record["clover_order_id"] = clover_result.get("order_id")
+            store.save_order(order_record["session_id"], order_record)
+        else:
+            logger.error(f"Clover push failed: {clover_result.get('error')}")
+    except Exception as e:
+        logger.error(f"_push_order_to_clover error: {e}")
+
 
 # ─── Payment Webhook (Clover) ────────────────────────────────
 
