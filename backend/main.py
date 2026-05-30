@@ -295,6 +295,7 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     """
     Submit the order: create pending record, generate payment link, send SMS.
     Does NOT push to Clover yet — that happens after payment confirmation.
+    Auto-detects caller phone from Vapi call context if not provided by the agent.
     """
     customer_phone = args.get("customer_phone", "")
     customer_name = args.get("customer_name", "Customer")
@@ -304,8 +305,18 @@ async def tool_submit_order(args: dict, message: dict, background_tasks: Backgro
     language = args.get("language", "en")
     call_id = message.get("call", {}).get("id", str(uuid.uuid4()))
 
+    # Auto-detect caller number from Vapi call context if agent didn't pass it
     if not customer_phone:
-        return {"success": False, "error": "Customer phone number is required to send payment link."}
+        caller_number = (
+            message.get("call", {}).get("customer", {}).get("number", "") or
+            message.get("customer", {}).get("number", "") or
+            message.get("call", {}).get("phoneNumber", {}).get("number", "")
+        )
+        if caller_number:
+            customer_phone = caller_number
+            logger.info(f"Auto-detected caller phone from Vapi context: {caller_number}")
+        else:
+            return {"success": False, "error": "Customer phone number is required to send payment link."}
 
     if not items:
         return {"success": False, "error": "No items in the order."}
